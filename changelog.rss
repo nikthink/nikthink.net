@@ -5,6 +5,7 @@
       <link>https://nikthink.net</link>
       <description>rss feed for nikthink.net's changelog</description>
       <language>en-us</language>
+      <!-- validator: https://www.rssboard.org/rss-validator/check.cgi?url=https%3A%2F%2Fnikthink.net%2Fchangelog.rss -->
       <!-- <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate> -->
       <!-- <lastBuildDate>Fri, 21 Jul 2023 09:04 EDT</lastBuildDate> -->
       <docs>https://www.rssboard.org/rss-specification</docs>
