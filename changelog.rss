@@ -16,7 +16,7 @@
          <!-- <link>https://nikthink.net/changelog.rss</link> -->
          <description>Initial entry. right now the site only has `index.html` and `legal-statements.html` as web pages</description>
          <pubDate>Fri, 21 Mar 2025 14:56:41 -0400</pubDate> <!-- used `date -R` which uses rfc5322, hopefully it's compatible with rfc822 which rss 2.0 uses-->
-         <guid>urn:uuid:5c5efd26-6a12-4c82-9806-17404d963f8a/guid>
+         <guid>urn:uuid:5c5efd26-6a12-4c82-9806-17404d963f8a</guid>
       </item>
    </channel>
 </rss>
