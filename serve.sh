@@ -3,7 +3,7 @@
 hugoBuildFlags="--enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings"
 
 build() {
-    rm -r ./public/ && hugo -b / $hugoBuildFlags
+    rm -rf ./public/ && hugo -b / $hugoBuildFlags
 }
 
 build
