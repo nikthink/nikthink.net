@@ -1,0 +1,59 @@
+name: Deploy hugo site to github pages
+
+on:
+    push:
+        branches:
+            - main
+    workflow_dispatch:
+
+permissions:
+    contents: read
+    pages: write
+
+concurrency:
+    group: "pages"
+    cancel-in-progress: false
+
+defaults:
+    run:
+        shell: bash
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        env:
+            HUGO_ENVIRONMENT: production
+            TZ: America/Toronto
+        steps:
+            - name: install hugo package
+              run: sudo apt install -y hugo
+            - name: checkout
+              uses: actions/checkout@v4
+              with:
+                  submodules: recursive
+                  fetch-depth: 0
+            # - name: Setup Pages
+              # id: pages
+              # uses: actions/configure-pages@v5
+            - name: hugo build
+              run: |
+                  hugo -cacheDir "${{ runner.temp }}/hugo_cache" \
+                  --enableGitInfo --panicOnWarning \
+                  --printI18nWarnings --printPathWarnings
+            - name: copying post-hugo-build files
+              run: cp -a ./legal-statements.html ./changelog.rss ./public/
+            - name: Upload published site to github pages
+              id: deployment
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: ./public/
+    deploy:
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+        runs-on: ubuntu-latest
+        needs: build
+        steps:
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4

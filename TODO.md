@@ -1,9 +1,6 @@
 # TODO for nikthink.net
 
-- manually copy `legal-statements.html` during build.
-  to make sure it's the same url and no redirect.
-  i also probably dont want to list the page, at least for now.
-- make sure home page links to changelog feed. `<link rel="alternate" type="application/rss+xml" href="changelog.rss" title="nikthink.net changelog" />`
+- create logo
 
 - add blogroll and web feed for posts
 - have a til log (Today I Learned). so that i can remember and share what I learned with people. and to show I love learning.
