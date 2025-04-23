@@ -4,8 +4,4 @@ draft: false
 title: ''
 ---
 
-<!--
-    <link rel="alternate" type="application/rss+xml" href="changelog.rss" title="nikthink.net changelog" />
--->
-
 hi, im nik, this is my website.

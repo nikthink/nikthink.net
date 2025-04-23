@@ -1,9 +1,13 @@
 #!/usr/bin/env bash
 
-rm -r ./public/ &&
-        hugo -b / --enableGitInfo
+hugoBuildFlags="--enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings"
 
-while inotifywait -e create,modify,delete -r --exclude .git/ .; do
-    rm -r ./public/ &&
-        hugo -b / --enableGitInfo
+build() {
+    rm -r ./public/ && hugo -b / $hugoBuildFlags
+}
+
+build
+
+while inotifywait -e create,modify,delete,move -r --exclude .git/ .; do
+    build
 done
