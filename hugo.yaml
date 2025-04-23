@@ -1,0 +1,40 @@
+#v11
+baseURL: 'https://nikthink.net/'
+languageCode: en-us
+title: nikthink.net
+theme: plague
+relativeURLs: true
+uglyURLs: true
+markup:
+  tableOfContents:
+    ordered: true
+outputs:
+    home:
+        - html
+        - rss
+        - markdown
+    page:
+        - html
+        - markdown
+    section:
+        - html
+        - rss
+pagination:
+  pagerSize: 100
+params:
+    siteHeaderText: nikthink.net
+    siteFooterText: |
+        Thanks to the [plague](https://github.com/brianreumere/plague) hugo theme.
+    colors: default
+    hcard:
+        fullName: Nik Lacombe
+        social:
+            - platform: email
+              identity: nicolas.m.lacombe@gmail.com
+              url_pattern: 'mailto:%s'
+            - platform: github
+              identity: nikthink
+              url_pattern: 'https://github.com/%s'
+cascade:
+  params:
+    toc: true
