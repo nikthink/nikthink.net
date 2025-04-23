@@ -37,7 +37,7 @@ jobs:
               # uses: actions/configure-pages@v5
             - name: hugo build
               run: |
-                  hugo -cacheDir "${{ runner.temp }}/hugo_cache" --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings
+                  hugo --cacheDir "${{ runner.temp }}/hugo_cache" --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings
             - name: copying post-hugo-build files
               run: cp -a ./legal-statements.html ./changelog.rss ./public/
             - name: Upload published site to github pages
