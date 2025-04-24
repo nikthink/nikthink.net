@@ -13,6 +13,13 @@
       <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
       <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
       <item>
+         <title>migrated site to hugo</title>
+         <link>https://nikthink.net/</link>
+         <description>migrated site to hugo (https://gohugo.io/)</description>
+         <pubDate>Wed, 23 Apr 2025 19:55:02 -0400</pubDate>
+         <guid isPermaLink="false">urn:uuid:a49829c5-779f-4caa-a711-6d0ed61e8742 </guid>
+      </item>
+      <item>
          <title>added /random.html for unimportant misc thoughts</title>
          <link>https://nikthink.net/random.html</link>
          <description>added /random.html for unimportant misc thoughts/jokes/etc</description>
