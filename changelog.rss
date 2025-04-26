@@ -13,6 +13,16 @@
       <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
       <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
       <item>
+         <title>added til log and fixed duplicated page summary</title>
+         <link>https://nikthink.net/misc/til.html</link>
+         <description>
+             - fixed duplicated post/page summary
+             - added til log: /misc/til.html
+         </description>
+         <pubDate>Fri, 25 Apr 2025 20:04:26 -0400</pubDate>
+         <guid isPermaLink="false">urn:uuid:ded61d4a-9f93-4bdd-8373-464754e37da4</guid>
+      </item>
+      <item>
          <title>migrated site to hugo</title>
          <link>https://nikthink.net/</link>
          <description>migrated site to hugo (https://gohugo.io/)</description>
