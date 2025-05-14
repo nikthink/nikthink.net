@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+    <style>
+        .grey {
+            stroke: #888;
+        }
+        
+        @media (prefers-color-scheme: light) {
+            .grey { display: none; }
+            .adapt { stroke: #000; }
+            .adapt-fill { fill: #000; }
+        }
+        @media (prefers-color-scheme: dark) {
+            .grey { display: none; }
+            .adapt { stroke: #fff; }
+            .adapt-fill { fill: #fff; }
+        }
+    </style>
+
+    <clipPath id="clip1">
+        <rect x="0" y="0" width="64" height="32"/>
+        <rect x="32" y="32" width="32" height="32"/>
+    </clipPath>
+    <ellipse cx="32" cy="32" rx="30" ry="30" stroke-width="5px" stroke="black" fill="none" clip-path="url(#clip1)" class="adapt"/>
+
+    <clipPath id="clip2">
+        <rect x="4" y="59" width="32" height="36"/>
+    </clipPath>
+    <ellipse cx="35" cy="76" rx="15" ry="15" stroke-width="5px" stroke="black" fill="none" clip-path="url(#clip2)" class="adapt"/>
+
+    <ellipse cx="32" cy="110" rx="10" ry="10" stroke="none" fill="black" class="adapt-fill"/>
+
+    <line x1="72" y1="40" x2="120" y2="88" stroke-width="5px" stroke="black" class="adapt"/>
+    <line x1="120" y1="40" x2="72" y2="88" stroke-width="5px" stroke="black" class="adapt"/>
+    <line x1="64" y1="64" x2="128" y2="64" stroke-width="5px" stroke="black" class="adapt"/>
+    <line x1="96" y1="32" x2="96" y2="96" stroke-width="5px" stroke="black" class="adapt"/>
+</svg>
