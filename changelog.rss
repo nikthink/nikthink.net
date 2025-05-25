@@ -13,6 +13,15 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>added /notes/owings.html</title>
+            <link>https://nikthink.net/notes/owings.html</link>
+            <description>
+                - added log for some of what i owe to others and what they owe me: /notes/owings.html
+            </description>
+            <pubDate>Sun, 25 May 2025 14:36:17 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:51e5dff8-9d55-4b63-b1f9-396ee14bea1e</guid>
+        </item>
+        <item>
             <title>updated gratitute log</title>
             <link>https://nikthink.net/misc/gratitude-log.html</link>
             <description>
