@@ -13,6 +13,15 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>added entry to /misc/til.html</title>
+            <link>https://nikthink.net/misc/til.html</link>
+            <description>
+                - added entry about early transparent flexible film base.
+            </description>
+            <pubDate>Tue, 27 May 2025 23:11:34 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:ca10ff1d-4aae-4352-a156-b5f5d9fd8b4e</guid>
+        </item>
+        <item>
             <title>updated /notes/owings.html</title>
             <link>https://nikthink.net/notes/owings.html</link>
             <description>
