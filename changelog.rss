@@ -13,6 +13,15 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>updated /notes/owings.html</title>
+            <link>https://nikthink.net/notes/owings.html</link>
+            <description>
+                - added what i now owe jeremy
+            </description>
+            <pubDate>Tue, 27 May 2025 21:08:23 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:2876195f-d482-4e12-ab42-3c6115c87858</guid>
+        </item>
+        <item>
             <title>added /notes/owings.html</title>
             <link>https://nikthink.net/notes/owings.html</link>
             <description>

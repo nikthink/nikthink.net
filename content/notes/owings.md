@@ -12,6 +12,12 @@ i have other notes that might contain more of such owings.
 
 ## Current tabs
 
+### Jeremy
+- i owe
+    - a favor.
+        - [offered cad 50 for jeremy coining the term nikpicking](https://discord.com/channels/987838207267848243/987838207909593113/1376908836970954752).
+           since i like the feedback on my behavior, and also the term has stuck in my mind and helped me deal with this better.
+
 ### Marion
 - i owe
     - a beer and a food starter
@@ -22,5 +28,6 @@ i have other notes that might contain more of such owings.
 
 ## Log
 
+- 2025-05-27: owe jeremy a favor. for [coining the term nikpicking](https://discord.com/channels/987838207267848243/987838207909593113/1376908836970954752).
 - 2025-05-24: owe henri half a hummus container (the whole thing is cad ~5 so half is half of that).
-- 2025-05-21: oew marion a beer and a food starter.
+- 2025-05-21: owe marion a beer and a food starter.
