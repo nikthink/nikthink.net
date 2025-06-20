@@ -13,6 +13,18 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>first post: Deconstructing birthdays</title>
+            <link>https://nikthink.net/posts/2025/birthdays.html</link>
+            <description>
+                - published first post: _Deconstructing birthdays_
+                - from now on if you want a rss feed for only posts, subscribe to https://nikthink.net/posts/index.xml
+                  this current feed (https://nikthink.net/changelog.rss) will contain a lot more updates than just the posts
+                  (it will include other website changes).
+            </description>
+            <pubDate>Fri, 20 Jun 2025 16:35:25 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:8fb1d121-a9d5-46ab-85ed-c4d2eaa440db</guid>
+        </item>        
+        <item>
             <title>minor updates to owings and random</title>
             <link>https://nikthink.net/notes/owings.html</link>
             <description>

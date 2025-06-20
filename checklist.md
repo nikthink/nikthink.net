@@ -25,7 +25,7 @@
 - remove/rephrase too much hedging
     - try to be more concise.
       or have a good tradeoff between technically correct and concise
-- remove/eplace "i think"
+- remove/replace "i think"
     - obviously that's what i think if im writing it
 - break long sentences
 - check what sections/paragraph i can delete
