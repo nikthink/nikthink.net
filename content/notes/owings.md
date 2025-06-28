@@ -23,6 +23,7 @@ i have other notes that might contain more of such owings.
     - half a hummus container
 
 ## Log
+- 2025-06-24: #9: david krueger waived the cad 10 for wearing a wreath. settles #7.
 - 2025-06-23: #8: owe [katja grace](https://www.facebook.com/katja.grace)
   [cad 10 for wearing a wreath on summer solstice](https://www.lesswrong.com/posts/SxDj5m26isfKYkNa6/acx-montreal-meetup-june-21st-1pm?commentId=XZMDrLLt6vWdfHLpv).
   expires in 14 days.
