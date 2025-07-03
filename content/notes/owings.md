@@ -22,7 +22,12 @@ i have other notes that might contain more of such owings.
 - i owe
     - half a hummus container
 
+### Matt
+- i owe
+    - 183g of his favorite [za'atar](https://en.wikipedia.org/wiki/Za%27atar) (brand al'ard ?), or equivalent in money: ~ cad 7.
+
 ## Log
+- 2025-07-02: #10: owe matt 183g of his favorite [za'atar](https://en.wikipedia.org/wiki/Za%27atar) (brand al'ard ?), or equivalent in money: ~ cad 7.
 - 2025-06-24: #9: david krueger waived the cad 10 for wearing a wreath. settles #7.
 - 2025-06-23: #8: owe [katja grace](https://www.facebook.com/katja.grace)
   [cad 10 for wearing a wreath on summer solstice](https://www.lesswrong.com/posts/SxDj5m26isfKYkNa6/acx-montreal-meetup-june-21st-1pm?commentId=XZMDrLLt6vWdfHLpv).
