@@ -18,6 +18,10 @@ i have other notes that might contain more of such owings.
         - [offered cad 50 for jeremy coining the term nikpicking](https://discord.com/channels/987838207267848243/987838207909593113/1376908836970954752).
            since i like the feedback on my behavior, and also the term has stuck in my mind and helped me deal with this better.
 
+### Jodie
+- i owe
+    - a full hummus container
+
 ### Henri
 - i owe
     - half a hummus container
@@ -27,6 +31,8 @@ i have other notes that might contain more of such owings.
     - 183g of his favorite [za'atar](https://en.wikipedia.org/wiki/Za%27atar) (brand al'ard ?), or equivalent in money: ~ cad 7.
 
 ## Log
+- 2025-07-12: #12: #8 expired on 2025-07-07. did not get a message from katja between 2025-06-23 and 2025-07-07.
+- 2025-07-12: #11: owe jodie a full hummus container
 - 2025-07-02: #10: owe matt 183g of his favorite [za'atar](https://en.wikipedia.org/wiki/Za%27atar) (brand al'ard ?), or equivalent in money: ~ cad 7.
 - 2025-06-24: #9: david krueger waived the cad 10 for wearing a wreath. settles #7.
 - 2025-06-23: #8: owe [katja grace](https://www.facebook.com/katja.grace)

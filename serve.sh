@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-hugoBuildFlags="--enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings"
+hugoBuildFlags="--enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings $1"
 
 build() {
     rm -rf ./public/ && hugo -b / $hugoBuildFlags

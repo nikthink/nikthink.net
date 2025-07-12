@@ -13,6 +13,19 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>updated owings, random, and serve.sh</title>
+            <link>https://nikthink.net/notes/owings.html</link>
+            <description>
+                <pre>
+                    - updated /notes/owings.html
+                    - added some silly thoughts to /misc/random.html
+                    - minor update to serve.sh
+                </pre>
+            </description>
+            <pubDate>Sat, 12 Jul 2025 15:45:07 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:e7de21f8-ff94-4765-a22a-d01165e57783</guid>
+        </item>
+        <item>
             <title>updated owings</title>
             <link>https://nikthink.net/notes/owings.html</link>
             <description>
