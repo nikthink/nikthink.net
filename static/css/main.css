@@ -1,0 +1,10 @@
+a.logo {
+    text-decoration: none;
+}
+
+.logo img {
+    width: auto;
+    height: 2em;
+    vertical-align: middle;
+    text-decoration: none;
+}

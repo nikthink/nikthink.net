@@ -1,5 +1,8 @@
 <div class="header-container">
     <div class="site-header">
+        <a href="{{ .Site.BaseURL }}" class="logo">
+            <img src="{{ "nikthink-logo.svg" | absURL}}" alt="nikthink logo: ?*"/>
+        </a>
         <a class="site-header" href="{{ .Site.BaseURL }}">{{ .Site.Params.siteHeaderText }}</a>
     </div>
     <div class="site-nav">

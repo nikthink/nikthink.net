@@ -26,6 +26,7 @@ params:
     siteFooterText: |
         Thanks to the [plague](https://github.com/brianreumere/plague) hugo theme.
     colors: default
+    customStylesheet: css/main.css
     hcard:
         fullName: Nik Lacombe
         social:
