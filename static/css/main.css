@@ -8,3 +8,16 @@ a.logo {
     vertical-align: middle;
     text-decoration: none;
 }
+
+table {
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+table th,td,tr {
+    border: 1px solid var(--text-color);
+}
+
+table th,td,tr {
+    padding: 10px;
+}

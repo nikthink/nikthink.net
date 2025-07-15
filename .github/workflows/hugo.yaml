@@ -42,7 +42,7 @@ jobs:
               run: |
                   hugo --cacheDir "${{ runner.temp }}/hugo_cache" --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings
             - name: copying post-hugo-build files
-              run: cp -a ./legal-statements.html ./changelog.rss ./public/
+              run: cp -a ./legal-statements.html ./changelog.rss ./data/ ./public/
             - name: Upload published site to github pages
               id: deployment
               uses: actions/upload-pages-artifact@v3
