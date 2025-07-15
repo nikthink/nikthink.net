@@ -9,6 +9,10 @@ a.logo {
     text-decoration: none;
 }
 
+a:visited {
+    color: var(--visited-link-color);
+}
+
 table {
     border-collapse: collapse;
     margin: 1em 0;
@@ -20,4 +24,17 @@ table th,td,tr {
 
 table th,td,tr {
     padding: 10px;
+}
+
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --visited-link-color: #0b287d;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --visited-link-color: #7284c4;
+    }
 }
