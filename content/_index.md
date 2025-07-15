@@ -37,16 +37,18 @@ or failing that too, on the other places listed here.
 ## Blogroll
 [blogroll](https://en.wikipedia.org/wiki/Blogroll): blogs and personal websites i especially like.
 
-- more known websites
-    - https://gwern.net
-    - https://solar.lowtechmagazine.com
-    - https://xkcd.com
-    - https://waitbutwhy.com
-    - https://martinfowler.com
 - lesser known personal websites
-    - https://thoughtsofmine.ca
-    - https://jenn.site
-    - https://jodie.website
-    - https://scyy.fi
-    - https://blog.massimogauthier.com
-    - https://frvser.com
+    - <https://thoughtsofmine.ca>
+    - <https://jenn.site>
+    - <https://jodie.website>
+    - <https://scyy.fi>
+    - <https://blog.massimogauthier.com>
+    - <https://frvser.com>
+- well-known-ish websites
+    - <https://100r.co/site/about.html>
+    - <https://gwern.net>
+    - <https://solar.lowtechmagazine.com>
+    - <https://waitbutwhy.com>
+    - <https://homosabiens.substack.com>
+    - <https://martinfowler.com>
+    - <https://xkcd.com>

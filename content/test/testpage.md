@@ -7,7 +7,7 @@ a test page to test that markdown and other functionalities gets built correctly
 
 <!--more-->
 
-### Text
+## Text
 testing **bold** text.  
 testing _italic_ text.  
 testing `inline_code` text.  
@@ -25,7 +25,7 @@ here is a 3 line quote:
 
 back to regular text.
 
-### Real code block
+## Real code block
 ```typescript
 import { httpBatchLink, loggerLink } from "@trpc/client";
 import { createTRPCNext } from "@trpc/next";
