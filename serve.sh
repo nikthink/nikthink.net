@@ -7,8 +7,7 @@ build() {
         hugo -b / $hugoBuildFlags &&
         cp -a ./legal-statements.html ./changelog.rss ./data/ ./public/ &&
         mkdir ./public/archives/ &&
-        tar -zcf ./public/archives/nikthink-net-full.tgz \
-            .editorconfig .github/workflows/* ./*
+        tar -zcf ./public/archives/nikthink-net-full-latest.tgz .editorconfig .github/workflows/* ./*
 }
 
 build

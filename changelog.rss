@@ -13,6 +13,17 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>can now download full website archive</title>
+            <link>https://nikthink.net/archives/nikthink-net-full-latest.tgz</link>
+            <description>
+                <pre>
+                    - can now download full website archive
+                </pre>
+            </description>
+            <pubDate>Tue, 15 Jul 2025 00:30:44 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:a81d9e29-3d12-4b42-8614-33afc24ab18c</guid>
+        </item>
+        <item>
             <title>added (back) visited link color</title>
             <link>https://nikthink.net/</link>
             <description>

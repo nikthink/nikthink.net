@@ -1,6 +1,5 @@
 # TODO for nikthink.net
 
-- create logo
 - add link to web feed for posts
 - money log
     - on website put list of promises and who i paid for what. so that people can establish credibility of me paying them.

@@ -24,6 +24,7 @@ pagination:
 params:
     siteHeaderText: nikthink.net
     siteFooterText: |
+        Please [download this full website](/archives/nikthink-net-full-latest.tgz).
         Thanks to the [plague](https://github.com/brianreumere/plague) hugo theme.
     colors: default
     customStylesheet: css/main.css
