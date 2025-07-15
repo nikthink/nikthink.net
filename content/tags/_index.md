@@ -2,5 +2,5 @@
 title: tags
 menu:
   main:
-    weight: 4
+    weight: 5
 ---

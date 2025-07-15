@@ -13,6 +13,17 @@
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title>added nav link to home page</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                <pre>
+                    - added nav link to home page
+                </pre>
+            </description>
+            <pubDate>Mon, 14 Jul 2025 23:27:52 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:53a4c1b9-3824-429f-b0ef-007bda46c48d</guid>
+        </item>
+        <item>
             <title>changes to blogroll and other minor changes</title>
             <link>https://nikthink.net/</link>
             <description>
