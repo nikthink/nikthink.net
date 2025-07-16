@@ -12,6 +12,17 @@
         <managingEditor>nicolas.m.lacombe@gmail.com (nik)</managingEditor>
         <webMaster>nicolas.m.lacombe@gmail.com (nik)</webMaster>
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
+        <!-- SCRIPT_ADD_ITEMS_HERE  -->
+        <item>
+            <title>added music ratings</title>
+            <link>https://nikthink.net/notes/music-ratings.md</link>
+            <description>
+                - added music ratings
+                - added script `commit.sh` to add to changelog.rss and commit from same info
+            </description>
+            <pubDate>Wed, 16 Jul 2025 17:08:45 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:06791a88-9bdd-4c9e-a3d5-4c2934856f5d</guid>
+        </item>
         <item>
             <title>can now download full website archive</title>
             <link>https://nikthink.net/archives/nikthink-net-full-latest.tgz</link>
