@@ -21,6 +21,11 @@ i like to note the link form lesswong when there is one even
 if the post is originally from another blog.
 sorry for the inconsistenty here.
 
+### Loved lw sequences
+[lw sequences](https://www.lesswrong.com/w/test-2), excluding those from [Rationality: A-Z](https://www.lesswrong.com/rationality).
+
+- [Replacing Guilt](https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF)
+
 ### Loved lw posts
 the posts i liked the most from lesswrong.  
 in no particular order.
