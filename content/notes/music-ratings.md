@@ -28,3 +28,11 @@ albums to re-listen to and compare with _best albums of all time_ list.
 - _Steppenwolf_ by _Steppenwolf_
 - _Brothers in Arms_ by _Dire Straits_
 - _Hotel California_ by _Eagles_
+
+## Favorite bands
+here is my top 2 of my favorite artists, in order:
+
+1. [Electric Light Orchestra](https://en.wikipedia.org/wiki/Electric_Light_Orchestra)
+    - favorite album from them: [Time](https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2)
+2. [The Beatles](https://en.wikipedia.org/wiki/The_Beatles)
+    - favorite album from them: [Rubber Soul](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm)

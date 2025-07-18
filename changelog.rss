@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added favorite bands to music ratings notes</title>
+            <link>https://nikthink.net/notes/music-ratings.html</link>
+            <description>
+                
+            </description>
+            <pubDate>Fri, 18 Jul 2025 15:01:49 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:98c389cf-1783-4f6f-b14c-49bebfdd9ec5</guid>
+        </item>
+        <item>
             <title>added music ratings</title>
             <link>https://nikthink.net/notes/music-ratings.md</link>
             <description>
