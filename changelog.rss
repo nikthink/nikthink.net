@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added posts i find notable from ratshpere and easphere</title>
+            <link>https://nikthink.net/notes/notable-ratshpere-and-eashpere-posts.html</link>
+            <description>
+                
+            </description>
+            <pubDate>Fri, 18 Jul 2025 16:25:29 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:34d4c563-0ebc-41b5-92ec-91c6c48f5f4a</guid>
+        </item>
+        <item>
             <title>added favorite bands to music ratings notes</title>
             <link>https://nikthink.net/notes/music-ratings.html</link>
             <description>
