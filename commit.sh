@@ -4,10 +4,17 @@ main() {
     scriptTag="<!-- SCRIPT_ADD_ITEMS_HERE  -->"
     messageTmpFile=$(mktemp) || fatal "error creating temporary file #1"
     gitStagedFiles=$(git status --porcelain | grep -Ev '^( |\?)') || fatal "error getting git staged files"
+    gitDiff=$(git diff --staged)
 
-    printf 'TITLE_TO_CHANGE\nURL_TO_CHANGE\n%s\n' "$gitStagedFiles" >> "$messageTmpFile"
+    printf 'TITLE_TO_CHANGE\nURL_TO_CHANGE\n%s\n\n%s\n' "$gitStagedFiles" "$gitDiff" >> "$messageTmpFile"
 
     "$EDITOR" "$messageTmpFile" || fatal "error calling editor"
+
+    numLines=$(wc -l "$messageTmpFile" | cut -d ' ' -f 1) || fatal "error getting number of lines for message: $messageTmpFile"
+
+    if [ "$numLines" -lt 3 ]; then
+        fatal "error: message has <3 lines. aborting."
+    fi
 
     title=$(cut -d $'\n' -f 1 < "$messageTmpFile") || fatal "error getting title from tmp file"
     url=$(cut -d $'\n' -f 2 < "$messageTmpFile") || fatal "error getting url from tmp file"

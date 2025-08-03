@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added git diff to commit.sh</title>
+            <link></link>
+            <description>
+                added git diff to commit.sh
+            </description>
+            <pubDate>Sun, 03 Aug 2025 00:35:25 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:c4bf19f3-85be-4026-b912-f1f95ec6b1dd</guid>
+        </item>
+        <item>
             <title>lastfm account, new movie rations, and misc changes</title>
             <link>https://nikthink.net/</link>
             <description>
