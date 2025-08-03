@@ -28,6 +28,8 @@ and that people separate messages in email threads with mathing subjects;
 but if you are allergic to emails then send me a message on discord,
 or failing that too, on the other places listed here.
 
+also see a list of cryptographically verified identities i have here: https://keyoxide.org/3626FCC7BF47A408CC69F621300932229C5B35A9
+
 - email: <nicolas.m.lacombe@gmail.com>
     - please use my [pgp key](/pgp-key.html) if you know how.
       otherwise no worries.
@@ -36,6 +38,8 @@ or failing that too, on the other places listed here.
 - admonymous (anonymous feedback): https://www.admonymous.co/nikthink
 - facebook / facebook messenger: https://www.facebook.com/nikthink
 - spotify: https://open.spotify.com/user/22zp7medvckidhcq4aqrpbedy
+- last.fm: https://www.last.fm/user/nikthink
+    - see what im listening to right now or my song listening history
 
 ## Blogroll
 [blogroll](https://en.wikipedia.org/wiki/Blogroll): blogs and personal websites i especially like.

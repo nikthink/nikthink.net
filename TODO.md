@@ -6,6 +6,13 @@
     - items:
         - ~ 2025-06-21 log money given: for wearing a wreath on summer solstice. sent cad 10 to andy
         - donated cad 15 to _La Plaque Tournante_ for hosting our event. ~ 2025-04-28 to confirm date.
+- create history of notable things i did
+    - organizing [pauseai mtl](https://pauseai.ca/montreal.html)
+    - director of horizon omega (on board of directors)
+    - organized relationship anarchy event in montreal (with mars)
+    - sometimes help organize acx montreal
+    - organized cryonics meetups
+    - co-organized macroscope
 - notes file ideas
     - list of objects i own and where to buy them (ex: amazon link)
     - funny wifi names

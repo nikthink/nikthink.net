@@ -14,6 +14,19 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>lastfm account, new movie rations, and misc changes</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                - added lastfm account
+                - added new movie ratings
+                - added clarification on scoring for movie ratings
+                - added email to pgp key
+                - added ideas for list of acheivements i might want to add in the future
+            </description>
+            <pubDate>Sun, 03 Aug 2025 00:31:43 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:817e44e3-b983-45c6-8eaa-301b5c4cbed6</guid>
+        </item>
+        <item>
             <title>added _replacing guilt_ to lw sequences i loved</title>
             <link>https://nikthink.net/notes/notable-ratshpere-and-eashpere-posts.html</link>
             <description>
