@@ -120,3 +120,10 @@ in no particular order.
     - https://www.overcomingbias.com/p/join-we-meta-adaptionists
 - origin of prediction market idea: https://www.overcomingbias.com/p/hail-jeffrey-wernick
 - https://www.overcomingbias.com/p/conquest-and-liberation-of-academia
+
+## Aella
+posts from Aella on [Knowingless substack](https://aella.substack.com/).  
+in no particular order.
+
+### Loved aella posts
+- on status: https://aella.substack.com/p/pt4-power-hierarchies

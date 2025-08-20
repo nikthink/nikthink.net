@@ -18,3 +18,4 @@ features i want in my personal website(s)
 - [X] syntax highlighting for code blocks
 - [ ] have js so that user can change font and colors
 - [X] post by year with url `/posts/YEAR/NAME.html` ?
+- [X] different link colors for visited and un-visited links

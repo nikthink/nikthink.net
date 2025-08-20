@@ -26,11 +26,8 @@ i have other notes that might contain more of such owings.
 - i owe
     - half a hummus container
 
-### Matt
-- i owe
-    - 183g of his favorite [za'atar](https://en.wikipedia.org/wiki/Za%27atar) (brand al'ard ?), or equivalent in money: ~ cad 7.
-
 ## Log
+- 2025-08-20: #13: gave matt 183g of his favorite zaatar (alard). settles #10.
 - 2025-07-12: #12: #8 expired on 2025-07-07. did not get a message from katja between 2025-06-23 and 2025-07-07.
 - 2025-07-12: #11: owe jodie a full hummus container
 - 2025-07-02: #10: owe matt 183g of his favorite [za'atar](https://en.wikipedia.org/wiki/Za%27atar) (brand al'ard ?), or equivalent in money: ~ cad 7.

@@ -14,6 +14,18 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>updated owings and added aella post i like</title>
+            <link>https://nikthink.net/notes/owings.md</link>
+            <description>
+                - updated owings
+                - added a post from aella that i like to /notes/notable-ratshpere-and-eashpere-posts.md
+                - minor update to pgp key info
+                - minor update to website features list
+            </description>
+            <pubDate>Wed, 20 Aug 2025 15:22:42 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:76d4d456-ba02-46cc-9a33-2b107e7f137f</guid>
+        </item>
+        <item>
             <title>added git diff to commit.sh</title>
             <link></link>
             <description>
