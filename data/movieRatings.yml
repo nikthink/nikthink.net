@@ -1,3 +1,15 @@
+- title: From Up on Poppy Hill
+  releaseYear: 2011
+  ratingOn10: 7
+  ratedDateOnly: 2025-08-22
+  imdbUrl: 'https://www.imdb.com/title/tt1798188'
+  imdbRuntimeMin: 91
+- title: The Wind Rises
+  releaseYear: 2013
+  ratingOn10: 8
+  ratedDateOnly: 2025-08-22
+  imdbUrl: 'https://www.imdb.com/title/tt2013293'
+  imdbRuntimeMin: 126
 - title: Le fabuleux destin d'Amélie Poulain
   releaseYear: 2001
   ratingOn10: 7

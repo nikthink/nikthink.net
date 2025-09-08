@@ -9,6 +9,7 @@ menu:
 
 hi, im nik, this is my website.  
 i am a [relationship anarchist](https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy).
+i organize [pauseai montreal](https://pauseai.ca/montreal).
 
 on top of web feeds per post categories,
 there is a [changelog feed](/changelog.rss) for the whole website.
