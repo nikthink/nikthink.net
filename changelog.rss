@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>new post: Petrov day speech</title>
+            <link>https://nikthink.net/posts/2025/petrov-day.html</link>
+            <description>
+                new post: Petrov day speech
+            </description>
+            <pubDate>Fri, 26 Sep 2025 17:58:17 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:f2538074-dc4a-4d7f-8004-1a317fc24326</guid>
+        </item>
+        <item>
             <title>minor update to homepage, movies/series ratings, and gratitude log</title>
             <link>https://nikthink.net/</link>
             <description>
