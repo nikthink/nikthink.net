@@ -28,7 +28,7 @@ Wherever you are, whatever you're doing, take a minute to not destroy the world.
 
 ---
 
-<!-- comment on the lw post -->
+comment on the [lesswrong post](https://www.lesswrong.com/posts/yCiks3cbRqvi2SwEk/2025-petrov-day-speech) for this blog post.
 
 thanks to
 [Ben Pace](https://www.lesswrong.com/posts/jcPiBoHnyFC4gqiQ6/an-idea-for-a-more-communal-petrov-day-in-2022),
