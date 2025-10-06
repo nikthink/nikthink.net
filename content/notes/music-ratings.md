@@ -13,7 +13,7 @@ in no particular order.
 
 - [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE?si=P654ycK_S0O-gQkLKgAA4g%0A)
   by [The White Stripes](https://en.wikipedia.org/wiki/The_White_Stripes)
-- [Breakfastin America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ?si=9j7hXiCoSDWl9IrfILN01A)
+- [Breakfast in America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ?si=9j7hXiCoSDWl9IrfILN01A)
   by [Supertramp](https://en.wikipedia.org/wiki/Supertramp)
 - [Time](https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2?si=CBcGXM0QTQiC8c8t9Zhb1Q)
   by [Electric Light Orchestra](https://en.wikipedia.org/wiki/Electric_Light_Orchestra)

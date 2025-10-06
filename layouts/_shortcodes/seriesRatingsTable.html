@@ -1,12 +1,15 @@
 {{- $dataObjName := "seriesRatings" -}}
 {{- $data := index .Site.Data $dataObjName -}}
 {{- if $data -}}
-<table>
+<table data-sort-table>
+    <thead>
     <tr>
-        <th>Rated on</th>
+        <th data-sort-reverse>Rated on</th>
         <th>Title (year) [imdbUrl]</th>
-        <th>Rating (on 10)</th>
+        <th data-sort-default data-sort-reverse>Rating (on 10)</th>
     </tr>
+    </thead>
+    <tbody>
 {{- range $row := sort $data "ratingOn10" "desc" -}}
     <tr>
         <td>{{ index $row "ratedDateOnly" }}</td>
@@ -20,6 +23,7 @@
 {{- else -}}
 <p style="color: red">error: data not an array</p>
 {{- end -}}
+</tbody>
 </table>
 {{- else -}}
 <p style="color: red">error: error getting data "{{ $dataObjName }}"</p>

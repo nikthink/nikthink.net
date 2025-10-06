@@ -1,6 +1,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+    
     {{ hugo.Generator }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{- with .Site.Params.Colors -}}
@@ -17,4 +20,8 @@
     {{ end }}
 
     <link rel="icon" type="image/svg+xml" href="{{ "nikthink-logo.svg" | absURL}}">
+
+    <script src="/js/3rdparty/tablesort.js"></script>
+    <script src="/js/3rdparty/tablesort.number.js"></script>
+    <script src="/js/main.js"></script>
 </head>

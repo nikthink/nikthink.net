@@ -2,6 +2,10 @@
 
 <!-- qns-id=urn:uuid:2fe4adce-d507-4d3a-8226-14b5a1d3085d -->
 
+- misc
+    - 2025-09-21T20:48:34.073Z : 2025-09-21 : finished reading _If anyone builds it, everyone dies_
+    - 2025-09-24T23:34:46.074Z : movie to watch: O Brother, Where Art Thou? 2000
+
 - add link to web feed for posts
 - money log
     - on website put list of promises and who i paid for what. so that people can establish credibility of me paying them.
@@ -15,6 +19,7 @@
     - sometimes help organize acx montreal
     - organized cryonics meetups
     - co-organized macroscope
+    - see `~/notes/bio/bio.md` for more
 - notes file ideas
     - list of objects i own and where to buy them (ex: amazon link)
     - funny wifi names

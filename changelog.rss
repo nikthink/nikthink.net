@@ -14,6 +14,19 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added csp, table sorting, movie ratings, new loved external posts, and more</title>
+            <link>https://nikthink.net/notes/media-ratings.html</link>
+            <description>
+                - added csp
+                - added table sorting by js (optional js, its sorted on default column in html
+                - added new movie ratings
+                - added new loved ea/rat posts
+                - misc improvents including fixing typos
+            </description>
+            <pubDate>Sun, 05 Oct 2025 22:43:58 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:b0a44e0f-7750-495c-bcf4-3dcdd5d942c9</guid>
+        </item>
+        <item>
             <title>new post: Petrov day speech</title>
             <link>https://nikthink.net/posts/2025/petrov-day.html</link>
             <description>

@@ -4,9 +4,9 @@ draft: false
 title: 'Owings'
 ---
 what i owe to people or what i am owed.
-this is what i agreed explicitely verbally or in wirting with people.
+this is what i agreed explicitly verbally or in writing with people.
 
-i have other notes that might contain more of such owings.
+i have other notes that might contain more of such owing.
 
 <!--more-->
 

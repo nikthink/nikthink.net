@@ -7,15 +7,15 @@ my notes about hugo themes.
 
 <!--more-->
 
-winner: https://themes.gohugo.io/themes/plague/
+good:
+- https://themes.gohugo.io/themes/plague/
+- https://github.com/CyrusYip/hugo-theme-yue
 
 maybe good:
 - https://themes.gohugo.io/themes/hugo-theme-monochrome/
     - init auto: no, change auto: no, button: mobile, desktop
 - https://themes.gohugo.io/themes/rusty-typewriter/
     - init auto: no, change auto: no, button: mobile, desktop
-- https://themes.gohugo.io/themes/plague/
-    - init auto: yea, change auto: yea, button: none
 
 maybe:
 - https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/

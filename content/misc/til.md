@@ -7,6 +7,7 @@ a log of small interesting-ish things i have learned.
 
 <!--more-->
 
+- 2025-09-22: learned about how llms sometimes interacts with people to propagate memes and delusions: https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai
 - 2025-05-27: early (before plastic) movie [film base](https://en.wikipedia.org/wiki/Film_base) were made from (or in part with) cellulose: [nitrocellulose](https://en.wikipedia.org/wiki/Nitrocellulose).
     - researched this since i [noticed i was confused][noticing-confusion]: i thought there was no common transparent and flexible material before plastics, but also
       thought that movies existed on film before plastics; and the latter would seem to require flexible transparent material.

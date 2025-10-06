@@ -1,3 +1,21 @@
+- title: A Streetcar Named Desire
+  releaseYear: 1951
+  ratingOn10: 8
+  ratedDateOnly: 2025-10-04
+  imdbUrl: 'https://www.imdb.com/title/tt0044081'
+  imdbRuntimeMin: 122
+- title: Ghost in the Shell
+  releaseYear: 1995
+  ratingOn10: 9
+  ratedDateOnly: 2025-09-28
+  imdbUrl: 'https://www.imdb.com/title/tt0113568'
+  imdbRuntimeMin: 83
+- title: Abominable
+  releaseYear: 2019
+  ratingOn10: 5
+  ratedDateOnly: 2025-09-19
+  imdbUrl: 'https://www.imdb.com/title/tt6324278'
+  imdbRuntimeMin: 97
 - title: From Up on Poppy Hill
   releaseYear: 2011
   ratingOn10: 7

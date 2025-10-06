@@ -25,7 +25,7 @@ timezone (UTC−05:00 / UTC−04:00) (fuck daylight saving time changes).
 here are places you can contact me, and a list of accounts on other websites/apps.
 
 i prefer being contacted by [plaintext](https://useplaintext.email/) email,
-and that people separate messages in email threads with mathing subjects;
+and that people separate messages in email threads with matching subjects;
 but if you are allergic to emails then send me a message on discord,
 or failing that too, on the other places listed here.
 
@@ -53,7 +53,7 @@ also see a list of cryptographically verified identities i have here: https://ke
     - <https://blog.massimogauthier.com>
     - <https://frvser.com>
 - well-known-ish websites
-    - <https://100r.co/site/about.html>
+    - <https://100r.ca/site/about.html>
     - <https://gwern.net>
     - <https://solar.lowtechmagazine.com>
     - <https://waitbutwhy.com>

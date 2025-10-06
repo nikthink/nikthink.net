@@ -1,3 +1,15 @@
+@media (prefers-color-scheme: light) {
+    :root {
+        --visited-link-color: #0b287d;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --visited-link-color: #7284c4;
+    }
+}
+
 a.logo {
     text-decoration: none;
 }
@@ -26,15 +38,42 @@ table th,td,tr {
     padding: 10px;
 }
 
-
-@media (prefers-color-scheme: light) {
-    :root {
-        --visited-link-color: #0b287d;
-    }
+table[data-sort-table] th {
+	cursor: pointer;
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --visited-link-color: #7284c4;
-    }
+table[data-sort-table] th:after {
+	content: ' ^';
+	visibility: hidden;
+}
+
+table[data-sort-table] th[data-sort-reverse]:after {
+	content: ' v';
+}
+
+table[data-sort-table] th[aria-sort=descending]:after {
+	content: ' v';
+}
+
+table[data-sort-table] th[aria-sort=descending][data-sort-reverse]:after {
+	content: ' ^';
+}
+
+table[data-sort-table] th[aria-sort=ascending]:after {
+	content: ' ^';
+}
+
+table[data-sort-table] th[aria-sort=ascending][data-sort-reverse]:after {
+	content: ' v';
+}
+
+table[data-sort-table] th[aria-sort]:after {
+	visibility: visible;
+	opacity: 0.4;
+}
+
+table[data-sort-table] th:focus:after,
+table[data-sort-table] th:hover:after {
+	visibility: visible;
+	opacity: 1;
 }
