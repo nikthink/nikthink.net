@@ -26,6 +26,7 @@ sorry for the inconsistency here.
 - [Belief as Attire](https://www.lesswrong.com/posts/nYkMLFpx77Rz3uo9c/belief-as-attire)
 - [Expecting Short Inferential Distances](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances)
 - [Scientific Evidence, Legal Evidence, Rational Evidence](https://www.lesswrong.com/posts/fhojYBGGiYAFcryHZ/scientific-evidence-legal-evidence-rational-evidence)
+- [Cached Thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)
 
 ### Loved lw sequences
 [lw sequences](https://www.lesswrong.com/w/test-2), excluding those from [Rationality: A-Z](https://www.lesswrong.com/rationality).

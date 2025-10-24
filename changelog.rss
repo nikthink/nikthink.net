@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>minor content add to til, movie ratings, notable lw posts</title>
+            <link>https://nikthink.net/misc/til.html</link>
+            <description>
+                minor content add to til, movie ratings, notable lw posts
+            </description>
+            <pubDate>Fri, 24 Oct 2025 16:40:00 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:849b0696-417c-4cda-a913-b59fab1f4be8</guid>
+        </item>
+        <item>
             <title>added csp, table sorting, movie ratings, new loved external posts, and more</title>
             <link>https://nikthink.net/notes/media-ratings.html</link>
             <description>
