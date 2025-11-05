@@ -34,3 +34,434 @@
   imdbRuntimeMin: 76
   addedDateOnly: 2025-11-04
   recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6IjZGcGF6ekhRWVBBMXdEMmkiLCJlbmMiOiJNUHZDVW1mZTNuVzVqWngzTWM2NTZrazB5ZDRtd2c9PSJ9&cryptEnd)'
+- title: Seven Samurai
+  releaseYear: 1954
+  addedDateOnly: '2013-11-14'
+  imdbUrl: https://www.imdb.com/title/tt0047478/
+  imdbRuntimeMin: 207
+- title: Insomnia
+  releaseYear: 2002
+  addedDateOnly: '2014-03-20'
+  imdbUrl: https://www.imdb.com/title/tt0278504/
+  imdbRuntimeMin: 118
+- title: Hero
+  releaseYear: 2002
+  addedDateOnly: '2014-04-25'
+  imdbUrl: https://www.imdb.com/title/tt0299977/
+  imdbRuntimeMin: 120
+- title: Oldboy
+  releaseYear: 2003
+  addedDateOnly: '2014-04-25'
+  imdbUrl: https://www.imdb.com/title/tt0364569/
+  imdbRuntimeMin: 120
+- title: The Conversation
+  releaseYear: 1974
+  addedDateOnly: '2015-05-27'
+  imdbUrl: https://www.imdb.com/title/tt0071360/
+  imdbRuntimeMin: 113
+- title: Exam
+  releaseYear: 2009
+  addedDateOnly: '2015-07-05'
+  imdbUrl: https://www.imdb.com/title/tt1258197/
+  imdbRuntimeMin: 101
+- title: Mindwalk
+  releaseYear: 1990
+  addedDateOnly: '2016-01-09'
+  imdbUrl: https://www.imdb.com/title/tt0100151/
+  imdbRuntimeMin: 112
+- title: The Wild Bunch
+  releaseYear: 1969
+  addedDateOnly: '2016-03-06'
+  imdbUrl: https://www.imdb.com/title/tt0065214/
+  imdbRuntimeMin: 145
+- title: Diner
+  releaseYear: 1982
+  addedDateOnly: '2016-03-27'
+  imdbUrl: https://www.imdb.com/title/tt0083833/
+  imdbRuntimeMin: 110
+- title: The Tribe
+  releaseYear: 2014
+  addedDateOnly: '2016-04-09'
+  imdbUrl: https://www.imdb.com/title/tt1745787/
+  imdbRuntimeMin: 126
+- title: Macbeth
+  releaseYear: 2015
+  addedDateOnly: '2016-04-09'
+  imdbUrl: https://www.imdb.com/title/tt2884018/
+  imdbRuntimeMin: 113
+- title: Logan
+  releaseYear: 2017
+  addedDateOnly: '2017-01-22'
+  imdbUrl: https://www.imdb.com/title/tt3315342/
+  imdbRuntimeMin: 137
+- title: Hidden Figures
+  releaseYear: 2016
+  addedDateOnly: '2017-02-08'
+  imdbUrl: https://www.imdb.com/title/tt4846340/
+  imdbRuntimeMin: 127
+- title: 'Meek''s Cutoff'
+  releaseYear: 2010
+  addedDateOnly: '2017-07-03'
+  imdbUrl: https://www.imdb.com/title/tt1518812/
+  imdbRuntimeMin: 104
+- title: The Box
+  releaseYear: 2009
+  addedDateOnly: '2017-09-16'
+  imdbUrl: https://www.imdb.com/title/tt0362478/
+  imdbRuntimeMin: 115
+  comment: rewatch to rate
+- title: It
+  releaseYear: 2017
+  addedDateOnly: '2017-11-06'
+  imdbUrl: https://www.imdb.com/title/tt1396484/
+  imdbRuntimeMin: 135
+- title: The Shape of Water
+  releaseYear: 2017
+  addedDateOnly: '2018-01-14'
+  imdbUrl: https://www.imdb.com/title/tt5580390/
+  imdbRuntimeMin: 123
+- title: '8½'
+  releaseYear: 1963
+  addedDateOnly: '2018-01-28'
+  imdbUrl: https://www.imdb.com/title/tt0056801/
+  imdbRuntimeMin: 138
+- title: Annihilation
+  releaseYear: 2018
+  addedDateOnly: '2018-02-25'
+  imdbUrl: https://www.imdb.com/title/tt2798920/
+  imdbRuntimeMin: 115
+- title: The Good, the Bad and the Ugly
+  releaseYear: 1966
+  addedDateOnly: '2018-04-22'
+  imdbUrl: https://www.imdb.com/title/tt0060196/
+  imdbRuntimeMin: 161
+  comment: rewatch to rate
+- title: Cidade de Deus
+  releaseYear: 2002
+  addedDateOnly: '2018-04-22'
+  imdbUrl: https://www.imdb.com/title/tt0317248/
+  imdbRuntimeMin: 130
+- title: Sleuth
+  releaseYear: 1972
+  addedDateOnly: '2018-04-26'
+  imdbUrl: https://www.imdb.com/title/tt0069281/
+  imdbRuntimeMin: 138
+- title: Vertigo
+  releaseYear: 1958
+  addedDateOnly: '2018-12-01'
+  imdbUrl: https://www.imdb.com/title/tt0052357/
+  imdbRuntimeMin: 128
+- title: Brick
+  releaseYear: 2005
+  addedDateOnly: '2019-01-12'
+  imdbUrl: https://www.imdb.com/title/tt0393109/
+  imdbRuntimeMin: 110
+- title: Dog Day Afternoon
+  releaseYear: 1975
+  addedDateOnly: '2019-05-24'
+  imdbUrl: https://www.imdb.com/title/tt0072890/
+  imdbRuntimeMin: 125
+- title: Le charme discret de la bourgeoisie
+  releaseYear: 1972
+  addedDateOnly: '2019-06-17'
+  imdbUrl: https://www.imdb.com/title/tt0068361/
+  imdbRuntimeMin: 102
+- title: El Topo
+  releaseYear: 1970
+  addedDateOnly: '2019-06-17'
+  imdbUrl: https://www.imdb.com/title/tt0067866/
+  imdbRuntimeMin: 125
+- title: Fantasia 2000
+  releaseYear: 1999
+  addedDateOnly: '2019-06-23'
+  imdbUrl: https://www.imdb.com/title/tt0120910/
+  imdbRuntimeMin: 75
+  comment: rewatch to rate
+- title: 'Dune: Part One'
+  releaseYear: 2021
+  addedDateOnly: '2019-08-30'
+  imdbUrl: https://www.imdb.com/title/tt1160419/
+  imdbRuntimeMin: 155
+  comment: rewatch to rate
+- title: Escape from the Planet of the Apes
+  releaseYear: 1971
+  addedDateOnly: '2019-09-21'
+  imdbUrl: https://www.imdb.com/title/tt0067065/
+  imdbRuntimeMin: 98
+- title: War for the Planet of the Apes
+  releaseYear: 2017
+  addedDateOnly: '2019-09-21'
+  imdbUrl: https://www.imdb.com/title/tt3450958/
+  imdbRuntimeMin: 140
+- title: American Graffiti
+  releaseYear: 1973
+  addedDateOnly: '2019-09-29'
+  imdbUrl: https://www.imdb.com/title/tt0069704/
+  imdbRuntimeMin: 110
+- title: Duel
+  releaseYear: 1971
+  addedDateOnly: '2019-12-06'
+  imdbUrl: https://www.imdb.com/title/tt0067023/
+  imdbRuntimeMin: 90
+- title: Fargo
+  releaseYear: 1996
+  addedDateOnly: '2020-02-24'
+  imdbUrl: https://www.imdb.com/title/tt0116282/
+  imdbRuntimeMin: 98
+- title: Django Unchained
+  releaseYear: 2012
+  addedDateOnly: '2020-10-04'
+  imdbUrl: https://www.imdb.com/title/tt1853728/
+  imdbRuntimeMin: 165
+  comment: rewatch to rate
+- title: The Count of Monte Cristo
+  releaseYear: 1934
+  addedDateOnly: '2020-10-07'
+  imdbUrl: https://www.imdb.com/title/tt0025004/
+  imdbRuntimeMin: 113
+- title: Wonder Woman
+  releaseYear: 2017
+  addedDateOnly: '2020-10-31'
+  imdbUrl: https://www.imdb.com/title/tt0451279/
+  imdbRuntimeMin: 141
+- title: The Empire Strikes Back
+  releaseYear: 1980
+  addedDateOnly: '2020-10-31'
+  imdbUrl: https://www.imdb.com/title/tt0080684/
+  imdbRuntimeMin: 124
+  comment: rewatch to rate
+- title: 'The Lord of the Rings: The Two Towers'
+  releaseYear: 2002
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0167261/
+  imdbRuntimeMin: 179
+  comment: rewatch to rate
+- title: 'The Lord of the Rings: The Fellowship of the Ring'
+  releaseYear: 2001
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0120737/
+  imdbRuntimeMin: 178
+  comment: rewatch to rate
+- title: Escape from New York
+  releaseYear: 1981
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0082340/
+  imdbRuntimeMin: 99
+- title: Face/Off
+  releaseYear: 1997
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0119094/
+  imdbRuntimeMin: 138
+  comment: rewatch to rate
+- title: '28 Weeks Later'
+  releaseYear: 2007
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0463854/
+  imdbRuntimeMin: 100
+- title: The Lives of Others
+  releaseYear: 2006
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0405094/
+  imdbRuntimeMin: 137
+- title: The Sting
+  releaseYear: 1973
+  addedDateOnly: '2020-11-04'
+  imdbUrl: https://www.imdb.com/title/tt0070735/
+  imdbRuntimeMin: 129
+- title: Citizen Kane
+  releaseYear: 1941
+  addedDateOnly: '2020-11-22'
+  imdbUrl: https://www.imdb.com/title/tt0033467/
+  imdbRuntimeMin: 119
+- title: Office Space
+  releaseYear: 1999
+  addedDateOnly: '2020-12-03'
+  imdbUrl: https://www.imdb.com/title/tt0151804/
+  imdbRuntimeMin: 89
+  comment: rewatch to rate
+- title: Die Hard 2
+  releaseYear: 1990
+  addedDateOnly: '2020-12-24'
+  imdbUrl: https://www.imdb.com/title/tt0099423/
+  imdbRuntimeMin: 124
+- title: Live Free or Die Hard
+  releaseYear: 2007
+  addedDateOnly: '2020-12-24'
+  imdbUrl: https://www.imdb.com/title/tt0337978/
+  imdbRuntimeMin: 128
+- title: Westworld
+  releaseYear: 1973
+  addedDateOnly: '2020-12-24'
+  imdbUrl: https://www.imdb.com/title/tt0070909/
+  imdbRuntimeMin: 88
+- title: After Yang
+  releaseYear: 2021
+  addedDateOnly: '2021-07-25'
+  imdbUrl: https://www.imdb.com/title/tt8633464/
+  imdbRuntimeMin: 96
+- title: The Invisible Man
+  releaseYear: 2020
+  addedDateOnly: '2021-07-25'
+  imdbUrl: https://www.imdb.com/title/tt1051906/
+  imdbRuntimeMin: 124
+- title: Melancholia
+  releaseYear: 2011
+  addedDateOnly: '2021-07-25'
+  imdbUrl: https://www.imdb.com/title/tt1527186/
+  imdbRuntimeMin: 135
+- title: Time Bandits
+  releaseYear: 1981
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0081633/
+  imdbRuntimeMin: 116
+- title: Solaris
+  releaseYear: 1972
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0069293/
+  imdbRuntimeMin: 167
+- title: Thelma
+  releaseYear: 2017
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt6304046/
+  imdbRuntimeMin: 116
+- title: Banlieue 13
+  releaseYear: 2004
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0414852/
+  imdbRuntimeMin: 84
+- title: On the Silver Globe
+  releaseYear: 1988
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0093593/
+  imdbRuntimeMin: 166
+- title: Sleeper
+  releaseYear: 1973
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0070707/
+  imdbRuntimeMin: 89
+- title: '20,000 Leagues Under the Sea'
+  releaseYear: 1954
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0046672/
+  imdbRuntimeMin: 127
+- title: The War of the Worlds
+  releaseYear: 1953
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0046534/
+  imdbRuntimeMin: 85
+- title: Bride of Frankenstein
+  releaseYear: 1935
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0026138/
+  imdbRuntimeMin: 75
+- title: 'Colossus: The Forbin Project'
+  releaseYear: 1970
+  addedDateOnly: '2021-07-26'
+  imdbUrl: https://www.imdb.com/title/tt0064177/
+  imdbRuntimeMin: 100
+- title: 'Willy Wonka & the Chocolate Factory'
+  releaseYear: 1971
+  addedDateOnly: '2021-08-17'
+  imdbUrl: https://www.imdb.com/title/tt0067992/
+  imdbRuntimeMin: 100
+  comment: rewatch to rate
+- title: Charlie and the Chocolate Factory
+  releaseYear: 2005
+  addedDateOnly: '2021-08-17'
+  imdbUrl: https://www.imdb.com/title/tt0367594/
+  imdbRuntimeMin: 115
+  comment: rewatch to rate
+- title: 'The Pianist'
+  releaseYear: 2002
+  addedDateOnly: '2021-10-04'
+  imdbUrl: https://www.imdb.com/title/tt0253474/
+  imdbRuntimeMin: 150
+  comment: rewatch to rate
+- title: 'The Wolf of Wall Street'
+  releaseYear: 2013
+  addedDateOnly: '2021-10-04'
+  imdbUrl: https://www.imdb.com/title/tt0993846/
+  imdbRuntimeMin: 180
+  comment: rewatch to rate
+- title: Sweet Smell of Success
+  releaseYear: 1957
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0051036/
+  imdbRuntimeMin: 96
+- title: The Killing
+  releaseYear: 1956
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0049406/
+  imdbRuntimeMin: 84
+- title: Strangers on a Train
+  releaseYear: 1951
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0044079/
+  imdbRuntimeMin: 101
+- title: The Night of the Hunter
+  releaseYear: 1955
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0048424/
+  imdbRuntimeMin: 92
+- title: The Third Man
+  releaseYear: 1949
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0041959/
+  imdbRuntimeMin: 104
+- title: The Naked City
+  releaseYear: 1948
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0040636/
+  imdbRuntimeMin: 96
+- title: The Maltese Falcon
+  releaseYear: 1941
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0033870/
+  imdbRuntimeMin: 100
+- title: Nightmare Alley
+  releaseYear: 1947
+  addedDateOnly: '2021-10-17'
+  imdbUrl: https://www.imdb.com/title/tt0039661/
+  imdbRuntimeMin: 110
+- title: 'Cube: Ichido haittara, saigo'
+  releaseYear: 2021
+  addedDateOnly: '2021-11-01'
+  imdbUrl: https://www.imdb.com/title/tt13975458/
+  imdbRuntimeMin: 108
+- title: Busanhaeng
+  releaseYear: 2016
+  addedDateOnly: '2021-11-01'
+  imdbUrl: https://www.imdb.com/title/tt5700672/
+  imdbRuntimeMin: 118
+- title: Still Mine
+  releaseYear: 2012
+  addedDateOnly: '2022-01-07'
+  imdbUrl: https://www.imdb.com/title/tt2073086/
+  imdbRuntimeMin: 102
+- title: 'Kirikou et la sorcière'
+  releaseYear: 1998
+  addedDateOnly: '2022-04-29'
+  imdbUrl: https://www.imdb.com/title/tt0181627/
+  imdbRuntimeMin: 71
+  comment: rewatch to rate
+- title: 'The Lord of the Rings: The Return of the King'
+  releaseYear: 2003
+  addedDateOnly: '2022-05-01'
+  imdbUrl: https://www.imdb.com/title/tt0167260/
+  imdbRuntimeMin: 201
+  comment: rewatch to rate
+- title: The Master
+  releaseYear: 2012
+  addedDateOnly: '2022-06-30'
+  imdbUrl: https://www.imdb.com/title/tt1560747/
+  imdbRuntimeMin: 138
+- title: 'Dans une galaxie près de chez vous - Le film'
+  releaseYear: 2004
+  addedDateOnly: '2022-11-30'
+  imdbUrl: https://www.imdb.com/title/tt0385635/
+  imdbRuntimeMin: 109
+- title: 'Dans une galaxie près de chez vous 2'
+  releaseYear: 2008
+  addedDateOnly: '2022-11-30'
+  imdbUrl: https://www.imdb.com/title/tt1165276/
+  imdbRuntimeMin: 100
