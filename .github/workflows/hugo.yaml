@@ -42,7 +42,7 @@ jobs:
               run: |
                   hugo --cacheDir "${{ runner.temp }}/hugo_cache" --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings
             - name: copying post-hugo-build files
-              run: cp -a ./legal-statements.html ./changelog.rss ./data/ ./public/
+              run: cp -a ./changelog.rss ./data/ ./public/
             - name: creating website archive
               run: |
                   mkdir ./public/archives/ &&

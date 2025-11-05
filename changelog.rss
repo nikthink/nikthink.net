@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>moved legal-statements page to static directory</title>
+            <link>https://nikthink.net</link>
+            <description>
+                moved legal-statements page to static directory
+            </description>
+            <pubDate>Tue, 04 Nov 2025 23:57:52 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:70cd13b5-3625-4f51-a04e-ebb0e823e123</guid>
+        </item>
+        <item>
             <title>minor content add to til, movie ratings, notable lw posts</title>
             <link>https://nikthink.net/misc/til.html</link>
             <description>
