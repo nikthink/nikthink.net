@@ -1,0 +1,39 @@
+{{- $dataObjName := .Get 0 -}}
+{{- $data := index .Site.Data $dataObjName -}}
+{{- $page := .Page -}}
+{{- if $data -}}
+<table data-sort-table>
+    <thead>
+    <tr>
+        <th data-sort-reverse>Added on</th>
+        <th>Title (year) [imdbUrl]</th>
+        <th>Runtime</th>
+        <th>Recommended by</th>
+        <th>Comment</th>
+    </tr>
+    </thead>
+    <tbody>
+{{- range $row := sort $data "ratingOn10" "desc" -}}
+    <tr>
+        <td>{{ index $row "addedDateOnly" }}</td>
+        <td>
+            <a href="{{ index $row "imdbUrl" }}">
+                {{ index $row "title" }} ({{ index $row "releaseYear" }})
+            </a>
+        </td>
+        <td>
+            {{- $minutes := index $row "imdbRuntimeMin" -}}
+            {{- $duration := time.Duration "m" $minutes -}}
+            {{ replace $duration.String "0s" "" }}
+        </td>
+        <td>{{ index $row "recommendedBy" | $page.RenderString }}</td>
+        <td>{{ index $row "comment" }}</td>
+    </tr>
+{{- else -}}
+<p style="color: red">error: data not an array</p>
+{{- end -}}
+</tbody>
+</table>
+{{- else -}}
+<p style="color: red">error: error getting data "{{ $dataObjName }}"</p>
+{{- end -}}

@@ -86,6 +86,13 @@ async function cryptDecryptAllLinks() {
 
     if (!linkElements)
         return;
+
+    const keyBase64 = await cryptGetKeyBase64('keyBase64');
+            
+    if (!keyBase64)
+        throw new Error(`error getting key: ${keyBase64}`);
+
+    const sc = new SimpleCrypto(keyBase64);
     
     linkElements.forEach(async (linkElement) => {
         try {
@@ -95,12 +102,9 @@ async function cryptDecryptAllLinks() {
                 return;
             
             const encJson = new TextDecoder().decode(Uint8Array.fromBase64(encJsonBase64Url));
-            const keyBase64 = await cryptGetKeyBase64('keyBase64');
             
-            if (!keyBase64)
-                throw new Error(`error getting key: ${keyBase64}`);
             
-            const dec = await (new SimpleCrypto(keyBase64).decrypt(encJson));
+            const dec = await (sc.decrypt(encJson));
     
             linkElement.innerText = dec;
         } catch(error) {

@@ -1,0 +1,36 @@
+- title: La Femme Nikita
+  releaseYear: 1990
+  imdbUrl: 'https://www.imdb.com/title/tt0100263'
+  imdbRuntimeMin: 117
+  addedDateOnly: 2025-11-04
+- title: 'Jodorowsky''s Dune'
+  releaseYear: 2013
+  imdbUrl: 'https://www.imdb.com/title/tt1935156'
+  imdbRuntimeMin: 90
+  addedDateOnly: 2025-11-04
+- title: Stardust
+  releaseYear: 2007
+  imdbUrl: 'https://www.imdb.com/title/tt0486655'
+  imdbRuntimeMin: 127
+  addedDateOnly: 2025-11-04
+  comment: to rewatch maybe
+- title: Anatomy of a Fall
+  releaseYear: 2023
+  imdbUrl: 'https://www.imdb.com/title/tt17009710'
+  imdbRuntimeMin: 151
+  addedDateOnly: 2025-11-04
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6IndKV09kc1BOU1l5THhCZzAiLCJlbmMiOiI4UkRWa0VOdFRYVHVVcERFcU00M1p1cElKdGhuNlE9PSJ9&cryptEnd)'
+  comment: 'to watch in original language: french.'
+- title: Raw
+  releaseYear: 2016
+  imdbUrl: 'https://www.imdb.com/title/tt4954522'
+  imdbRuntimeMin: 99
+  addedDateOnly: 2025-11-04
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6ImI1YzRqdFhKb21HS080MGMiLCJlbmMiOiIySU5LMnBzUDJla2JpMUkyTjA2cmZmLy9ueGZJSlE9PSJ9&cryptEnd)'
+  comment: 'to watch in original language: french.'
+- title: The Nightmare Before Christmas
+  releaseYear: 1993
+  imdbUrl: 'https://www.imdb.com/title/tt0107688'
+  imdbRuntimeMin: 76
+  addedDateOnly: 2025-11-04
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6IjZGcGF6ekhRWVBBMXdEMmkiLCJlbmMiOiJNUHZDVW1mZTNuVzVqWngzTWM2NTZrazB5ZDRtd2c9PSJ9&cryptEnd)'
