@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added code to encrypt content (before git commit) and decrypt it (in browser)</title>
+            <link>https://nikthink.net/crypt.html</link>
+            <description>
+                added code to encrypt content (before git commit) and decrypt it (in browser)
+            </description>
+            <pubDate>Wed, 05 Nov 2025 00:00:21 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:16bdb9e2-91d7-44c8-bb77-8f1a212679d2</guid>
+        </item>
+        <item>
             <title>moved legal-statements page to static directory</title>
             <link>https://nikthink.net</link>
             <description>
