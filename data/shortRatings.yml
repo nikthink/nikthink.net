@@ -1,12 +1,24 @@
+- title: Les belles cicatrices
+  releaseYear: 2024
+  ratingOn10: 8
+  ratedDateOnly: 2025-11-10
+  imdbUrl: 'https://www.imdb.com/title/tt32205725'
+  imdbRuntimeMin: 15
+- title: Fille de l'eau
+  releaseYear: 2025
+  ratingOn10: 7
+  ratedDateOnly: 2025-11-10
+  imdbUrl: 'https://www.imdb.com/title/tt36724193'
+  imdbRuntimeMin: 15
 - title: The Crimson Permanent Assurance
   releaseYear: 1983
   ratingOn10: 10
-  ratedDateOnly: '2015-04-05'
-  imdbUrl: 'https://www.imdb.com/title/tt0215685/'
+  ratedDateOnly: 2015-04-05
+  imdbUrl: 'https://www.imdb.com/title/tt0215685'
   imdbRuntimeMin: 16
 - title: Kung Fury
   releaseYear: 2015
   ratingOn10: 7
-  ratedDateOnly: '2015-06-19'
-  imdbUrl: 'https://www.imdb.com/title/tt3472226/'
+  ratedDateOnly: 2015-06-19
+  imdbUrl: 'https://www.imdb.com/title/tt3472226'
   imdbRuntimeMin: 31

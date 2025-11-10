@@ -68,6 +68,7 @@ in no particular order.
 - lw community surveys: https://www.lesswrong.com/s/MKsuezdHmrHfbQCqT
     - ex: 2024 survey: https://www.lesswrong.com/s/MKsuezdHmrHfbQCqT/p/gpZBWNFxymsqnPB92
 - https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options
+- https://www.lesswrong.com/posts/bbB4pvAQdpGrgGvXH/tuning-your-cognitive-strategies
 
 ### Liked lw posts
 posts i liked enough to be worth noting down for further reference but not
@@ -90,7 +91,8 @@ in no particular order.
 - argues to live normally even if short ai timelines: https://www.lesswrong.com/posts/CvfZrrEokjCu3XHXp/ai-practical-advice-for-the-worried
 - https://www.lesswrong.com/posts/CzyGJzESo7vm75KKz/pick-two-concise-comprehensive-or-clear-rules
 - https://www.lesswrong.com/posts/xdwbX9pFEr7Pomaxv/meta-honesty-firming-up-honesty-around-its-edge-cases-1
-- https://www.lesswrong.com/posts/MFNJ7kQttCuCXHp8P/the-goddess-of-everything-else
+- https://www.lesswrong.com/posts/rYq6joCrZ8m62m7ej/how-could-i-have-thought-that-faster
+- https://www.lesswrong.com/posts/ancAQBkfKPdcu2JDN/three-notions-of-power#Emperor_of_China__Dominance
 
 ## EA Forum
 posts from the [ea forum](https://forum.effectivealtruism.org/) (eaf).
@@ -118,6 +120,7 @@ in no particular order.
 
 ### Liked acx posts
 - post about social dynamics i really liked: https://www.astralcodexten.com/p/book-review-sadly-porn
+- https://www.lesswrong.com/posts/MFNJ7kQttCuCXHp8P/the-goddess-of-everything-else
 
 ### Liked ssc posts
 - https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/

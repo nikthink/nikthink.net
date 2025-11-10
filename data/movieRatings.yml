@@ -1,3 +1,27 @@
+- title: Ma vie de Courgette
+  releaseYear: 2016
+  ratingOn10: 8
+  ratedDateOnly: 2025-11-09
+  imdbUrl: 'https://www.imdb.com/title/tt2321405'
+  imdbRuntimeMin: 70
+- title: Mars Express
+  releaseYear: 2023
+  ratingOn10: 8
+  ratedDateOnly: 2025-11-08
+  imdbUrl: 'https://www.imdb.com/title/tt26915336'
+  imdbRuntimeMin: 88
+- title: 'Dune: Part Two'
+  releaseYear: 2024
+  ratingOn10: 9
+  ratedDateOnly: 2025-11-05
+  imdbUrl: 'https://www.imdb.com/title/tt15239678'
+  imdbRuntimeMin: 166
+- title: A House of Dynamite
+  releaseYear: 2025
+  ratingOn10: 7
+  ratedDateOnly: 2025-11-05
+  imdbUrl: 'https://www.imdb.com/title/tt32376165'
+  imdbRuntimeMin: 112
 - title: Closet Monster
   releaseYear: 2015
   ratingOn10: 7
@@ -1060,7 +1084,7 @@
   ratedDateOnly: '2016-03-27'
   imdbUrl: 'https://www.imdb.com/title/tt1895587/'
   imdbRuntimeMin: 129
-- title: Wo hu cang long
+- title: Crouching Tiger, Hidden Dragon
   releaseYear: 2000
   ratingOn10: 9
   ratedDateOnly: '2014-11-01'

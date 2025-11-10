@@ -17,6 +17,7 @@
     - director of horizon omega (on board of directors)
     - organized relationship anarchy event in montreal (with mars)
     - sometimes help organize acx montreal
+    - organized petrov day mtl 2025 2024, solstice mtl 2024 (2025?).
     - organized cryonics meetups
     - co-organized macroscope
     - see `~/notes/bio/bio.md` for more
@@ -27,3 +28,12 @@
 - add to home page
     - probably not mention ea/rat until i can write a post about it
 - add moderation guidelines for comments and how featured comments with work
+
+
+## To process
+- 2025-10-26: to change my mind log:
+  karrigan carrie blog post. that chest might not be the most important spot
+  for cryonics info. first responders might not look there.
+- 2025-10-26: to blog interpersonal relationships:
+  intentionality, commitment, introspection, narratives,
+  priorities too late, not robust.

@@ -1,3 +1,106 @@
+- title: Inside Out
+  releaseYear: 2015
+  imdbUrl: 'https://www.imdb.com/title/tt2096673'
+  imdbRuntimeMin: 95
+  addedDateOnly: 2025-11-10
+- title: Flow
+  releaseYear: 2024
+  imdbUrl: 'https://www.imdb.com/title/tt4772188'
+  imdbRuntimeMin: 85
+  addedDateOnly: 2025-11-10
+- title: The Nature of Love
+  releaseYear: 2023
+  imdbUrl: 'https://www.imdb.com/title/tt22487338'
+  imdbRuntimeMin: 110
+  addedDateOnly: 2025-11-10
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6Imo1dnFhNm96T1c5Qk42S0YiLCJlbmMiOiJsWUNaK24zWFYxR1crYmNOdVAwWVY3MWdHdXgxVEE9PSJ9&cryptEnd)'
+- title: Portrait de la jeune fille en feu
+  releaseYear: 2019
+  imdbUrl: 'https://www.imdb.com/title/tt8613070'
+  imdbRuntimeMin: 122
+  addedDateOnly: 2025-11-08
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6IlNaNUZseGRmZTlKY1Y1enkiLCJlbmMiOiI3d0VDQjcvS3dSczhmek5RZWZjUVp2cHpPNTl3V2c9PSJ9&cryptEnd)'
+- title: Rubber
+  releaseYear: 2010
+  imdbUrl: 'https://www.imdb.com/title/tt1612774'
+  imdbRuntimeMin: 82
+  addedDateOnly: 2025-11-08
+- title: Life Is Beautiful
+  releaseYear: 1997
+  imdbUrl: 'https://www.imdb.com/title/tt0118799'
+  imdbRuntimeMin: 115
+  addedDateOnly: 2025-11-08
+  recommendedBy: m
+- title: The Thing
+  releaseYear: 1982
+  imdbUrl: 'https://www.imdb.com/title/tt0084787'
+  imdbRuntimeMin: 111
+  addedDateOnly: 2025-11-05
+  recommendedBy: gwern
+- title: Invasion of the Body Snatchers
+  releaseYear: 1978
+  imdbUrl: 'https://www.imdb.com/title/tt0077745'
+  imdbRuntimeMin: 115
+  addedDateOnly: 2025-11-05
+  recommendedBy: gwern
+- title: The Haunting
+  releaseYear: 1963
+  imdbUrl: 'https://www.imdb.com/title/tt0057129'
+  imdbRuntimeMin: 112
+  addedDateOnly: 2025-11-05
+  recommendedBy: gwern
+- title: Hero
+  releaseYear: 2002 
+  imdbUrl: 'https://www.imdb.com/title/tt0299977'
+  imdbRuntimeMin: 107
+  addedDateOnly: 2025-11-05
+  recommendedBy: gwern
+- title: Rashomon
+  releaseYear: 1950
+  imdbUrl: 'https://www.imdb.com/title/tt0042876'
+  imdbRuntimeMin: 88
+  addedDateOnly: 2025-11-05
+  recommendedBy: gwern
+- title: The Day the Earth Stood Still
+  releaseYear: 1951
+  imdbUrl: 'https://www.imdb.com/title/tt0043456'
+  imdbRuntimeMin: 92
+  addedDateOnly: 2025-11-05
+  recommendedBy: neil degrass tyson
+- title: The Quiet Earth
+  releaseYear: 1985
+  imdbUrl: 'https://www.imdb.com/title/tt0089869'
+  imdbRuntimeMin: 91
+  addedDateOnly: 2025-11-05
+  recommendedBy: neil degrass tyson
+- title: Europa Report
+  releaseYear: 2013
+  imdbUrl: 'https://www.imdb.com/title/tt2051879'
+  imdbRuntimeMin: 90
+  addedDateOnly: 2025-11-05
+  recommendedBy: neil degrass tyson
+- title: The Blob
+  releaseYear: 1958
+  imdbUrl: 'https://www.imdb.com/title/tt0051418'
+  imdbRuntimeMin: 86
+  addedDateOnly: 2025-11-05
+  recommendedBy: neil degrass tyson
+- title: Stalker
+  releaseYear: 1979
+  imdbUrl: 'https://www.imdb.com/title/tt0079944'
+  imdbRuntimeMin: 162
+  addedDateOnly: 2025-11-05
+- title: Lucia
+  releaseYear: 2013 
+  imdbUrl: 'https://www.imdb.com/title/tt2358592'
+  imdbRuntimeMin: 135
+  addedDateOnly: 2025-11-05
+- title: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
+  releaseYear: 1964
+  imdbUrl: 'https://www.imdb.com/title/tt0057012'
+  imdbRuntimeMin: 95
+  addedDateOnly: 2025-11-05
+  comment: rewatch to rate
 - title: La Femme Nikita
   releaseYear: 1990
   imdbUrl: 'https://www.imdb.com/title/tt0100263'
@@ -33,7 +136,6 @@
   imdbUrl: 'https://www.imdb.com/title/tt0107688'
   imdbRuntimeMin: 76
   addedDateOnly: 2025-11-04
-  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6IjZGcGF6ekhRWVBBMXdEMmkiLCJlbmMiOiJNUHZDVW1mZTNuVzVqWngzTWM2NTZrazB5ZDRtd2c9PSJ9&cryptEnd)'
 - title: Seven Samurai
   releaseYear: 1954
   addedDateOnly: '2013-11-14'
@@ -371,13 +473,13 @@
   imdbUrl: https://www.imdb.com/title/tt0367594/
   imdbRuntimeMin: 115
   comment: rewatch to rate
-- title: 'The Pianist'
+- title: The Pianist
   releaseYear: 2002
-  addedDateOnly: '2021-10-04'
+  addedDateOnly: 2021-10-04
   imdbUrl: https://www.imdb.com/title/tt0253474/
   imdbRuntimeMin: 150
   comment: rewatch to rate
-- title: 'The Wolf of Wall Street'
+- title: The Wolf of Wall Street
   releaseYear: 2013
   addedDateOnly: '2021-10-04'
   imdbUrl: https://www.imdb.com/title/tt0993846/
@@ -390,17 +492,17 @@
   imdbRuntimeMin: 96
 - title: The Killing
   releaseYear: 1956
-  addedDateOnly: '2021-10-17'
+  addedDateOnly: 2021-10-17
   imdbUrl: https://www.imdb.com/title/tt0049406/
   imdbRuntimeMin: 84
 - title: Strangers on a Train
   releaseYear: 1951
-  addedDateOnly: '2021-10-17'
+  addedDateOnly: 2021-10-17
   imdbUrl: https://www.imdb.com/title/tt0044079/
   imdbRuntimeMin: 101
 - title: The Night of the Hunter
   releaseYear: 1955
-  addedDateOnly: '2021-10-17'
+  addedDateOnly: 2021-10-17
   imdbUrl: https://www.imdb.com/title/tt0048424/
   imdbRuntimeMin: 92
 - title: The Third Man
@@ -415,53 +517,53 @@
   imdbRuntimeMin: 96
 - title: The Maltese Falcon
   releaseYear: 1941
-  addedDateOnly: '2021-10-17'
+  addedDateOnly: 2021-10-17
   imdbUrl: https://www.imdb.com/title/tt0033870/
   imdbRuntimeMin: 100
 - title: Nightmare Alley
   releaseYear: 1947
-  addedDateOnly: '2021-10-17'
+  addedDateOnly: 2021-10-17
   imdbUrl: https://www.imdb.com/title/tt0039661/
   imdbRuntimeMin: 110
 - title: 'Cube: Ichido haittara, saigo'
   releaseYear: 2021
-  addedDateOnly: '2021-11-01'
+  addedDateOnly: 2021-11-01
   imdbUrl: https://www.imdb.com/title/tt13975458/
   imdbRuntimeMin: 108
 - title: Busanhaeng
   releaseYear: 2016
-  addedDateOnly: '2021-11-01'
+  addedDateOnly: 2021-11-01
   imdbUrl: https://www.imdb.com/title/tt5700672/
   imdbRuntimeMin: 118
 - title: Still Mine
   releaseYear: 2012
-  addedDateOnly: '2022-01-07'
+  addedDateOnly: 2022-01-07
   imdbUrl: https://www.imdb.com/title/tt2073086/
   imdbRuntimeMin: 102
-- title: 'Kirikou et la sorcière'
+- title: Kirikou et la sorcière
   releaseYear: 1998
-  addedDateOnly: '2022-04-29'
+  addedDateOnly: 2022-04-29
   imdbUrl: https://www.imdb.com/title/tt0181627/
   imdbRuntimeMin: 71
   comment: rewatch to rate
 - title: 'The Lord of the Rings: The Return of the King'
   releaseYear: 2003
-  addedDateOnly: '2022-05-01'
+  addedDateOnly: 2022-05-01
   imdbUrl: https://www.imdb.com/title/tt0167260/
   imdbRuntimeMin: 201
   comment: rewatch to rate
 - title: The Master
   releaseYear: 2012
-  addedDateOnly: '2022-06-30'
+  addedDateOnly: 2022-06-30
   imdbUrl: https://www.imdb.com/title/tt1560747/
   imdbRuntimeMin: 138
 - title: 'Dans une galaxie près de chez vous - Le film'
   releaseYear: 2004
-  addedDateOnly: '2022-11-30'
+  addedDateOnly: 2022-11-30
   imdbUrl: https://www.imdb.com/title/tt0385635/
   imdbRuntimeMin: 109
 - title: 'Dans une galaxie près de chez vous 2'
   releaseYear: 2008
-  addedDateOnly: '2022-11-30'
+  addedDateOnly: 2022-11-30
   imdbUrl: https://www.imdb.com/title/tt1165276/
   imdbRuntimeMin: 100
