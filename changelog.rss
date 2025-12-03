@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added linkedin</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                added linkedin
+            </description>
+            <pubDate>Wed, 03 Dec 2025 16:12:00 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:4d543b19-70a0-4130-ab82-92ce6a95916b</guid>
+        </item>
+        <item>
             <title>new best music album, movie ratings</title>
             <link>https://nikthink.net/notes/media-ratings.html</link>
             <description>

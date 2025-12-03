@@ -41,6 +41,7 @@ also see a list of cryptographically verified identities i have here: https://ke
 - spotify: https://open.spotify.com/user/22zp7medvckidhcq4aqrpbedy
 - last.fm: https://www.last.fm/user/nikthink
     - see what im listening to right now or my song listening history
+- [linkedin](https://www.linkedin.com/in/nicolas-%F0%9F%A6%BE-lacombe-9b380a35a/)
 
 ## Blogroll
 [blogroll](https://en.wikipedia.org/wiki/Blogroll): blogs and personal websites i especially like.
