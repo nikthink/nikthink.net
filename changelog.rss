@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>more movies/series ratings and watchlist</title>
+            <link>https://nikthink.net/notes/media-ratings.html</link>
+            <description>
+                more movies/series ratings and watchlist, and random thoughts.
+            </description>
+            <pubDate>Sun, 07 Dec 2025 22:04:46 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:a275ef20-67b9-4cf5-aec3-f8435c91317b</guid>
+        </item>
+        <item>
             <title>added linkedin</title>
             <link>https://nikthink.net/</link>
             <description>

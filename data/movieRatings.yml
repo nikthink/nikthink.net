@@ -1,3 +1,15 @@
+- title: Bugonia
+  releaseYear: 2025
+  ratingOn10: 7
+  ratedDateOnly: 2025-12-05
+  imdbUrl: 'https://www.imdb.com/title/tt12300742'
+  imdbRuntimeMin: 118
+- title: Train Dreams
+  releaseYear: 2025
+  ratingOn10: 8
+  ratedDateOnly: 2025-11-22
+  imdbUrl: 'https://www.imdb.com/title/tt29768334'
+  imdbRuntimeMin: 102
 - title: Ma vie de Courgette
   releaseYear: 2016
   ratingOn10: 8
@@ -1828,7 +1840,7 @@
   ratedDateOnly: '2021-08-06'
   imdbUrl: 'https://www.imdb.com/title/tt0409459/'
   imdbRuntimeMin: 162
-- title: Dnevnoy dozor
+- title: Day Watch
   releaseYear: 2006
   ratingOn10: 4
   ratedDateOnly: '2013-02-26'
@@ -2074,7 +2086,7 @@
   ratedDateOnly: '2018-03-21'
   imdbUrl: 'https://www.imdb.com/title/tt5052448/'
   imdbRuntimeMin: 104
-- title: Den blomstertid nu kommer
+- title: The Unthinkable
   releaseYear: 2018
   ratingOn10: 8
   ratedDateOnly: '2020-12-05'
@@ -2308,7 +2320,7 @@
   ratedDateOnly: '2021-08-12'
   imdbUrl: 'https://www.imdb.com/title/tt0082096/'
   imdbRuntimeMin: 149
-- title: El hoyo
+- title: The Platform
   releaseYear: 2019
   ratingOn10: 7
   ratedDateOnly: '2020-10-03'

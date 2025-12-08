@@ -1,3 +1,23 @@
+- title: Mommy
+  releaseYear: 2014
+  imdbUrl: 'https://www.imdb.com/title/tt3612616'
+  imdbRuntimeMin: 139
+  addedDateOnly: 2025-12-07
+- title: Frankenstein
+  releaseYear: 2025
+  imdbUrl: 'https://www.imdb.com/title/tt1312221'
+  imdbRuntimeMin: 149
+  addedDateOnly: 2025-12-07
+- title: Titane
+  releaseYear: 2021
+  imdbUrl: 'https://www.imdb.com/title/tt10944760'
+  imdbRuntimeMin: 108
+  addedDateOnly: 2025-12-07
+- title: La guerre des tuques
+  releaseYear: 1984
+  imdbUrl: 'https://www.imdb.com/title/tt0087373'
+  imdbRuntimeMin: 91
+  addedDateOnly: 2025-12-07
 - title: Inside Out
   releaseYear: 2015
   imdbUrl: 'https://www.imdb.com/title/tt2096673'
