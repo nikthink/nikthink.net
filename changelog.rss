@@ -14,6 +14,28 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>TITLE_TO_CHANGE</title>
+            <link>URL_TO_CHANGE</link>
+            <description>
+                M  content/_index.md
+                
+                diff --git a/content/_index.md b/content/_index.md
+                index 691c51e..95a2783 100644
+                --- a/content/_index.md
+                +++ b/content/_index.md
+                @@ -41,6 +41,7 @@ also see a list of cryptographically verified identities i have here: https://ke
+                 - spotify: https://open.spotify.com/user/22zp7medvckidhcq4aqrpbedy
+                 - last.fm: https://www.last.fm/user/nikthink
+                     - see what im listening to right now or my song listening history
+                +- manifold: [nikthink](https://manifold.markets/nikthink)
+                 - [linkedin](https://www.linkedin.com/in/nicolas-%F0%9F%A6%BE-lacombe-9b380a35a/)
+                 
+                 ## Blogroll
+            </description>
+            <pubDate>Mon, 29 Dec 2025 15:54:34 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:5dae2b98-403d-4b2f-89d1-b1a75e430be0</guid>
+        </item>
+        <item>
             <title>added lw posts i like, movie ratings, and misc</title>
             <link>https://nikthink.net/notes/notable-ratshpere-and-eashpere-posts.html</link>
             <description>
