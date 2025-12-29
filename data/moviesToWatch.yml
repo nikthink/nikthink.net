@@ -1,18 +1,19 @@
+- title: O Brother, Where Art Thou?
+  releaseYear: 2000
+  imdbUrl: 'https://www.imdb.com/title/tt0190590'
+  imdbRuntimeMin: 107
+  addedDateOnly: 2025-09-24
 - title: Mommy
   releaseYear: 2014
   imdbUrl: 'https://www.imdb.com/title/tt3612616'
   imdbRuntimeMin: 139
-  addedDateOnly: 2025-12-07
-- title: Frankenstein
-  releaseYear: 2025
-  imdbUrl: 'https://www.imdb.com/title/tt1312221'
-  imdbRuntimeMin: 149
   addedDateOnly: 2025-12-07
 - title: Titane
   releaseYear: 2021
   imdbUrl: 'https://www.imdb.com/title/tt10944760'
   imdbRuntimeMin: 108
   addedDateOnly: 2025-12-07
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6Ikx6ZG92TkowNHovdy93ZmMiLCJlbmMiOiJzdEtncC9qdmxBL01adEkwMUJvdC8yUlljZ0dYdXRjWXpDTW5TVlpUSUlxN0ViMkI4bHExSEV2TUM5VEFxbklGRlVMOStCbTgzZnhNeCtZN0huVkdCenhKR3BkMzhUVUlNMlNtUkNDRlVyb1d1YitwTnI4eStZSk5wN2k1Q3dsOER5YlkxblR3eEJZRDh5TXF0NWtCZFplQmR0OD0ifQ==&cryptEnd)'
 - title: La guerre des tuques
   releaseYear: 1984
   imdbUrl: 'https://www.imdb.com/title/tt0087373'
@@ -50,7 +51,7 @@
   imdbUrl: 'https://www.imdb.com/title/tt0118799'
   imdbRuntimeMin: 115
   addedDateOnly: 2025-11-08
-  recommendedBy: m
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6Im9FTVROMVcvdWhwOHNoVVkiLCJlbmMiOiJCL0FkRDZUOGJVZ0RhMHJpWXc2L256WXIrR2VkNUE9PSJ9&cryptEnd)'
 - title: The Thing
   releaseYear: 1982
   imdbUrl: 'https://www.imdb.com/title/tt0084787'

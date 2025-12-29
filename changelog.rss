@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added lw posts i like, movie ratings, and misc</title>
+            <link>https://nikthink.net/notes/notable-ratshpere-and-eashpere-posts.html</link>
+            <description>
+                added lw posts i like, movie ratings, improved encryption in enc.mjs, and misc
+            </description>
+            <pubDate>Mon, 29 Dec 2025 15:50:14 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:97401d79-8e94-4a8e-b84d-ab0e80de83e5</guid>
+        </item>
+        <item>
             <title>more movies/series ratings and watchlist</title>
             <link>https://nikthink.net/notes/media-ratings.html</link>
             <description>

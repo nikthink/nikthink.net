@@ -4,9 +4,10 @@
 
 - misc
     - 2025-09-21T20:48:34.073Z : 2025-09-21 : finished reading _If anyone builds it, everyone dies_
-    - 2025-09-24T23:34:46.074Z : movie to watch: O Brother, Where Art Thou? 2000
 
 - add link to web feed for posts
+- add book ratings and want to read lists and recommended to me lists
+    - migrate goodreads export to nikthinkNet
 - money log
     - on website put list of promises and who i paid for what. so that people can establish credibility of me paying them.
     - items:
@@ -32,8 +33,12 @@
 
 ## To process
 - 2025-10-26: to change my mind log:
-  karrigan carrie blog post. that chest might not be the most important spot
-  for cryonics info. first responders might not look there.
+    - karrigan carrie blog post. that chest might not be the most important spot
+      for cryonics info. first responders might not look there. thank carrie.
+      https://biostasis.substack.com/p/a-call-for-change-industry-wide-cryonics
+    - maybe it's ok to do "revloution" and remove the people inpower by force,
+      if it's not killing them or hurting them physically, iceland style. summer 2025. thank person who made me think about this.
 - 2025-10-26: to blog interpersonal relationships:
   intentionality, commitment, introspection, narratives,
   priorities too late, not robust.
+    - also see convo gdoc with you know who.

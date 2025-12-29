@@ -44,17 +44,23 @@ sorry for the inconsistency here.
 the posts i liked the most from lesswrong.  
 in no particular order.
 
-- https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside
-- https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1
-- https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/8uk5bmmpJaSAgnZfg
-- https://www.lesswrong.com/posts/L6Ktf952cwdMJnzWm/motive-ambiguity
+- [How An Algorithm Feels From Inside](https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside)
+- [Basics of Rationalist Discourse](https://www.lesswrong.com/posts/XPv4sYrKnPzeJASuk/basics-of-rationalist-discourse-1)
+- [Ugh fields](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields)
+- [Pain is not the unit of Effort](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)
+- https://www.lesswrong.com/posts/iETtCZcfmRyHp69w4/can-the-chain-still-hold-you
+- ["I Don't Know"](https://www.lesswrong.com/posts/CufcsmsgDZ5viRHNd/i-don-t-know-2020-solstice-speech)
+- [The Meditation on Winter](https://www.lesswrong.com/posts/pnhjfkcBpzGp7gFTJ/the-meditation-on-winter)
+- [You're allowed to fight for something](https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/8uk5bmmpJaSAgnZfg)
+- [Motive Ambiguity](https://www.lesswrong.com/posts/L6Ktf952cwdMJnzWm/motive-ambiguity)
 - [Double Crux](https://www.lesswrong.com/posts/WLQspe83ZkiwBc2SR/double-crux) (new better post)
-- https://www.lesswrong.com/posts/z8usYeKX7dtTWsEnk/more-dakka
+- [Lies, Damn Lies, and Fabricated Options](https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options)
+- [More Dakka](https://www.lesswrong.com/posts/z8usYeKX7dtTWsEnk/more-dakka)
 - https://www.lesswrong.com/posts/xLm9mgJRPvmPGpo7Q/the-cognitive-science-of-rationality
 - https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example
-- https://www.lesswrong.com/posts/HYWhKXRsMAyvRKRYz/you-can-face-reality
+- [You Can Face Reality](https://www.lesswrong.com/posts/HYWhKXRsMAyvRKRYz/you-can-face-reality)
 - https://www.lesswrong.com/posts/XqvnWFtRD2keJdwjX/the-useful-idea-of-truth
-- https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences
+- [Making Beliefs Pay Rent (in Anticipated Experiences)](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)
 - https://www.lesswrong.com/posts/Z5wF8mdonsM2AuGgt/negative-feedback-and-simulacra
 - [Slack](https://www.lesswrong.com/posts/yLLkWMDbC9ZNKbjDG/slack)
 - [Steam](https://www.lesswrong.com/posts/inedT6KkbLSDwZvfd/steam)
@@ -67,8 +73,9 @@ in no particular order.
 - often referenced by lw people: https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
 - lw community surveys: https://www.lesswrong.com/s/MKsuezdHmrHfbQCqT
     - ex: 2024 survey: https://www.lesswrong.com/s/MKsuezdHmrHfbQCqT/p/gpZBWNFxymsqnPB92
-- https://www.lesswrong.com/posts/gNodQGNoPDjztasbh/lies-damn-lies-and-fabricated-options
 - https://www.lesswrong.com/posts/bbB4pvAQdpGrgGvXH/tuning-your-cognitive-strategies
+- [Reward is not the optimization target](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target)
+- https://www.lesswrong.com/posts/5FAnfAStc7birapMx/the-hostile-telepaths-problem
 
 ### Liked lw posts
 posts i liked enough to be worth noting down for further reference but not
@@ -77,6 +84,8 @@ in no particular order.
 
 - https://www.lesswrong.com/posts/6vcxuRHzeM99jYcYd/privileging-the-question
 - on confidence even under uncertainty: https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/jFvPWZB5WAGkDBpqN
+- https://www.lesswrong.com/posts/hXCNaXnHwYYnwYstp/process-crimes-and-pedantic-rules
+- https://www.lesswrong.com/posts/NxgQwGA4RPemhBubr/on-stance
 - https://www.lesswrong.com/posts/C4tR3BEpuWviT7Sje/2021-ai-alignment-literature-review-and-charity-comparison
 - https://www.lesswrong.com/posts/LuXb6CZG4x7pDRBP8/wait-vs-interrupt-culture
 - https://www.lesswrong.com/posts/K2JBqDeETX2yEgyyZ/the-limits-of-introspection
@@ -103,6 +112,7 @@ posts from the [ea forum](https://forum.effectivealtruism.org/) (eaf).
 ### Loved eaf posts
 
 - stats on genpop opinion of ea: https://forum.effectivealtruism.org/posts/Ypb6s6zwFiEKBiL3G/wave-2-of-pulse-awareness-and-perceptions-of-effective
+- is ai a bubble: https://forum.effectivealtruism.org/posts/im59y2Au7zC5ofuKe/is-the-ai-industry-in-a-bubble
 
 ### Liked eaf posts
 posts i liked enough to be worth noting down for further reference but not
@@ -127,6 +137,10 @@ in no particular order.
 - https://www.lesswrong.com/posts/u8GMcpEN9Z6aQiCvp/rule-thinkers-in-not-out
 - https://slatestarcodex.com/2017/04/11/sacred-principles-as-exhaustible-resources/
 - on cultural drift: https://slatestarcodex.com/2019/06/07/addendum-to-enormous-nutshell-competing-selectors/
+
+## Paul Graham
+### Liked Paul Graham posts
+- https://paulgraham.com/makersschedule.html
 
 ## Duncan
 posts from [Duncan Sabien](https://homosabiens.substack.com/).

@@ -1,3 +1,21 @@
+- title: Elemental
+  releaseYear: 2023
+  ratingOn10: 7
+  ratedDateOnly: 2025-12-12
+  imdbUrl: 'https://www.imdb.com/title/tt15789038'
+  imdbRuntimeMin: 101
+- title: Frankenstein
+  releaseYear: 2025
+  ratingOn10: 8
+  ratedDateOnly: 2025-12-27
+  imdbUrl: 'https://www.imdb.com/title/tt1312221'
+  imdbRuntimeMin: 149
+- title: Corpse Bride
+  releaseYear: 2005
+  ratingOn10: 7
+  ratedDateOnly: 2025-12-27
+  imdbUrl: 'https://www.imdb.com/title/tt0121164'
+  imdbRuntimeMin: 77
 - title: Bugonia
   releaseYear: 2025
   ratingOn10: 7
