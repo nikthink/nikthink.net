@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added link to manifold account</title>
+            <link>https://nikthink.net/#accounts</link>
+            <description>
+                added link to manifold account
+            </description>
+            <pubDate>Mon, 29 Dec 2025 15:56:52 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:ce277fe0-82a0-4deb-adc1-425803577560</guid>
+        </item>
+        <item>
             <title>TITLE_TO_CHANGE</title>
             <link>URL_TO_CHANGE</link>
             <description>

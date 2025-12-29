@@ -14,14 +14,12 @@ i organize [pauseai montreal](https://pauseai.ca/montreal).
 on top of web feeds per post categories,
 there is a [changelog feed](/changelog.rss) for the whole website.
 
-mi toki e toki pona.
-
 <!-- more -->
 
 i live in montreal. in the [America/Toronto](https://en.wikipedia.org/wiki/Eastern_Time_Zone)
 timezone (UTC−05:00 / UTC−04:00) (fuck daylight saving time changes).
 
-## Accounts / contact
+## Accounts
 here are places you can contact me, and a list of accounts on other websites/apps.
 
 i prefer being contacted by [plaintext](https://useplaintext.email/) email,
