@@ -11,13 +11,12 @@ hi, im nik, this is my website.
 i am a [relationship anarchist](https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy).
 i organize [pauseai montreal](https://pauseai.ca/montreal).
 
-on top of web feeds per post categories,
+on top of web feeds per post categories (ex for [all posts](/posts/index.xml)),
 there is a [changelog feed](/changelog.rss) for the whole website.
 
 <!-- more -->
 
-i live in montreal. in the [America/Toronto](https://en.wikipedia.org/wiki/Eastern_Time_Zone)
-timezone (UTC−05:00 / UTC−04:00) (fuck daylight saving time changes).
+i live in [montreal](https://en.wikipedia.org/wiki/Montreal).
 
 ## Accounts
 here are places you can contact me, and a list of accounts on other websites/apps.
@@ -46,8 +45,8 @@ also see a list of cryptographically verified identities i have here: https://ke
 [blogroll](https://en.wikipedia.org/wiki/Blogroll): blogs and personal websites i especially like.
 
 - lesser known personal websites
-    - <https://thoughtsofmine.ca>
     - <https://jenn.site>
+    - <https://thoughtsofmine.ca>
     - <https://jodie.website>
     - <https://scyy.fi>
     - <https://blog.massimogauthier.com>

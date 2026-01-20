@@ -14,6 +14,17 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>vavilov day post</title>
+            <link>https://nikthink.net/posts/2026/vavilov-day.html</link>
+            <description>
+                - post about vavilov day 2026
+                - added ceremonies tag to petrov day and vavilov day posts
+                - changed timezone info on home page to a simple link to the wiki page for montreal
+            </description>
+            <pubDate>Tue, 20 Jan 2026 16:58:54 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:5468f860-3c4f-4d07-beca-954f36b59095</guid>
+        </item>
+        <item>
             <title>added link to manifold account</title>
             <link>https://nikthink.net/#accounts</link>
             <description>

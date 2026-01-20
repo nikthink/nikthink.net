@@ -7,6 +7,7 @@ tags:
     - petrov-day
     - existential-risks
     - nuclear-war
+    - ceremonies
 ---
 
 the following is a speech i wrote for [petrov day](http://petrovday.com).
