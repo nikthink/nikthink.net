@@ -6,6 +6,7 @@ title: 'TIL log'
 a log of small interesting-ish things i have learned.
 
 <!--more-->
+- 2026-01-08: acrylic paint is mostly made of plastic. https://en.wikipedia.org/wiki/Acrylic_paint
 - 2025-10-24: scammers now distribute malware hidden inside interview code projects: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
 - 2025-09-22: learned about how llms sometimes interacts with people to propagate memes and delusions: https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai
 - 2025-05-27: early (before plastic) movie [film base](https://en.wikipedia.org/wiki/Film_base) were made from (or in part with) cellulose: [nitrocellulose](https://en.wikipedia.org/wiki/Nitrocellulose).

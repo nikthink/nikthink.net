@@ -77,6 +77,9 @@ in no particular order.
 - [Reward is not the optimization target](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target)
 - https://www.lesswrong.com/posts/5FAnfAStc7birapMx/the-hostile-telepaths-problem
 
+ai safety:
+- https://www.lesswrong.com/posts/F2voF4pr3BfejJawL/safety-isn-t-safety-without-a-social-model-or-dispelling-the
+
 ### Liked lw posts
 posts i liked enough to be worth noting down for further reference but not
 good enough to be part of what i feel were the best posts ive read from lesswrong.  
@@ -140,6 +143,7 @@ in no particular order.
 
 ## Paul Graham
 ### Liked Paul Graham posts
+- https://paulgraham.com/cities.html
 - https://paulgraham.com/makersschedule.html
 
 ## Duncan
@@ -164,6 +168,10 @@ in no particular order.
     - https://www.overcomingbias.com/p/join-we-meta-adaptionists
 - origin of prediction market idea: https://www.overcomingbias.com/p/hail-jeffrey-wernick
 - https://www.overcomingbias.com/p/conquest-and-liberation-of-academia
+
+## Jenn
+### Loved jenn posts
+- https://jenn.site/in-my-misanthropy-era/
 
 ## Aella
 posts from Aella on [Knowingless substack](https://aella.substack.com/).  
