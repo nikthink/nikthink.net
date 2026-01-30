@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added til log, and watched movies</title>
+            <link>https://nikthink.net/misc/til.html</link>
+            <description>
+                added til log, and watched movies
+            </description>
+            <pubDate>Fri, 30 Jan 2026 00:28:39 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:d02ed4e7-7f11-424c-8d81-3f444a81135c</guid>
+        </item>
+        <item>
             <title>minor changes to til and notable ratshpere posts</title>
             <link>https://nikthink.net/misc/til.html</link>
             <description>

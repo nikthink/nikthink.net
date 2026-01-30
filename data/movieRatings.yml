@@ -1,3 +1,21 @@
+- title: Wake Up Dead Man
+  releaseYear: 2025
+  ratingOn10: 8
+  ratedDateOnly: 2026-01-30
+  imdbUrl: 'https://imdb.com/title/tt14364480'
+  imdbRuntimeMin: 144
+- title: Up
+  releaseYear: 2009
+  ratingOn10: 8
+  ratedDateOnly: 2026-01-30
+  imdbUrl: 'https://imdb.com/title/tt1049413'
+  imdbRuntimeMin: 96
+- title: Happy as Lazzaro
+  releaseYear: 2018
+  ratingOn10: 8
+  ratedDateOnly: 2026-01-03
+  imdbUrl: 'https://imdb.com/title/tt6752992'
+  imdbRuntimeMin: 128
 - title: Elemental
   releaseYear: 2023
   ratingOn10: 7

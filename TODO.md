@@ -13,6 +13,7 @@
     - items:
         - ~ 2025-06-21 log money given: for wearing a wreath on summer solstice. sent cad 10 to andy
         - donated cad 15 to _La Plaque Tournante_ for hosting our event. ~ 2025-04-28 to confirm date.
+        - add payments to people for solstice mtl 2025: matt jodie jeremy and amounts
 - create history of notable things i did
     - organizing [pauseai mtl](https://pauseai.ca/montreal.html)
     - director of horizon omega (on board of directors)
@@ -21,6 +22,7 @@
     - organized petrov day mtl 2025 2024, solstice mtl 2024 (2025?).
     - organized cryonics meetups
     - co-organized macroscope
+    - was in charge of scheduling for nyc megameetup 2025
     - see `~/notes/bio/bio.md` for more
 - notes file ideas
     - list of objects i own and where to buy them (ex: amazon link)
@@ -42,3 +44,4 @@
   intentionality, commitment, introspection, narratives,
   priorities too late, not robust.
     - also see convo gdoc with you know who.
+

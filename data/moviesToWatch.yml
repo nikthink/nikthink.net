@@ -1,3 +1,14 @@
+- title: Little Miss Sunshine
+  releaseYear: 2006
+  imdbUrl: 'https://www.imdb.com/title/tt0449059'
+  imdbRuntimeMin: 101
+  addedDateOnly: 2026-01-30
+  recommendedBy: '[[encrypted]](/crypt.html?encJsonBase64Url=eyJ2IjoxLCJpdiI6IkFza2p3dlVWOFVrSFY5YWkiLCJlbmMiOiJXeGFuM1ZyQnI2cENjc0pFUGN5ZTBqeHI1R1ZxVldXVnhIUWpocnd3Um5YMG9rL0FLOFFIcGFuVitZc25GQXowRnE2d0F0RXdLbW5NMkJ3N01nM0IwemR6dStLbSt5UWs3cjJtV1k3VklMOTB0UG9hOVhQVE9ITXdBc1FHRStUb09EL0xOOWJOV21xM3QrR2pSeXdMQ21Cc0NZND0ifQ==&cryptEnd)'
+- title: Searching for Sugar Man
+  releaseYear: 2012
+  imdbUrl: 'https://www.imdb.com/title/tt2125608'
+  imdbRuntimeMin: 86
+  addedDateOnly: 2026-01-03
 - title: O Brother, Where Art Thou?
   releaseYear: 2000
   imdbUrl: 'https://www.imdb.com/title/tt0190590'
