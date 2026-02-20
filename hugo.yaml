@@ -22,6 +22,7 @@ outputs:
 pagination:
   pagerSize: 100
 params:
+    author: Nik Lacombe
     siteHeaderText: nikthink.net
     siteFooterText: |
         Please [download this full website](/archives/nikthink-net-full-latest.tgz).

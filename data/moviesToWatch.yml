@@ -228,11 +228,6 @@
   addedDateOnly: '2017-01-22'
   imdbUrl: https://www.imdb.com/title/tt3315342/
   imdbRuntimeMin: 137
-- title: Hidden Figures
-  releaseYear: 2016
-  addedDateOnly: '2017-02-08'
-  imdbUrl: https://www.imdb.com/title/tt4846340/
-  imdbRuntimeMin: 127
 - title: 'Meek''s Cutoff'
   releaseYear: 2010
   addedDateOnly: '2017-07-03'
@@ -249,11 +244,6 @@
   addedDateOnly: '2017-11-06'
   imdbUrl: https://www.imdb.com/title/tt1396484/
   imdbRuntimeMin: 135
-- title: The Shape of Water
-  releaseYear: 2017
-  addedDateOnly: '2018-01-14'
-  imdbUrl: https://www.imdb.com/title/tt5580390/
-  imdbRuntimeMin: 123
 - title: '8½'
   releaseYear: 1963
   addedDateOnly: '2018-01-28'
@@ -270,10 +260,10 @@
   imdbUrl: https://www.imdb.com/title/tt0060196/
   imdbRuntimeMin: 161
   comment: rewatch to rate
-- title: Cidade de Deus
+- title: City of God
   releaseYear: 2002
   addedDateOnly: '2018-04-22'
-  imdbUrl: https://www.imdb.com/title/tt0317248/
+  imdbUrl: 'https://www.imdb.com/title/tt0317248/'
   imdbRuntimeMin: 130
 - title: Sleuth
   releaseYear: 1972
@@ -353,27 +343,22 @@
   addedDateOnly: '2020-10-07'
   imdbUrl: https://www.imdb.com/title/tt0025004/
   imdbRuntimeMin: 113
-- title: Wonder Woman
-  releaseYear: 2017
-  addedDateOnly: '2020-10-31'
-  imdbUrl: https://www.imdb.com/title/tt0451279/
-  imdbRuntimeMin: 141
 - title: The Empire Strikes Back
   releaseYear: 1980
   addedDateOnly: '2020-10-31'
-  imdbUrl: https://www.imdb.com/title/tt0080684/
+  imdbUrl: 'https://www.imdb.com/title/tt0080684/'
   imdbRuntimeMin: 124
   comment: rewatch to rate
 - title: 'The Lord of the Rings: The Two Towers'
   releaseYear: 2002
   addedDateOnly: '2020-11-04'
-  imdbUrl: https://www.imdb.com/title/tt0167261/
+  imdbUrl: 'https://www.imdb.com/title/tt0167261/'
   imdbRuntimeMin: 179
   comment: rewatch to rate
 - title: 'The Lord of the Rings: The Fellowship of the Ring'
   releaseYear: 2001
   addedDateOnly: '2020-11-04'
-  imdbUrl: https://www.imdb.com/title/tt0120737/
+  imdbUrl: 'https://www.imdb.com/title/tt0120737/'
   imdbRuntimeMin: 178
   comment: rewatch to rate
 - title: Escape from New York
@@ -562,10 +547,10 @@
   addedDateOnly: 2021-11-01
   imdbUrl: https://www.imdb.com/title/tt13975458/
   imdbRuntimeMin: 108
-- title: Busanhaeng
+- title: Train to Busan
   releaseYear: 2016
   addedDateOnly: 2021-11-01
-  imdbUrl: https://www.imdb.com/title/tt5700672/
+  imdbUrl: 'https://www.imdb.com/title/tt5700672/'
   imdbRuntimeMin: 118
 - title: Still Mine
   releaseYear: 2012

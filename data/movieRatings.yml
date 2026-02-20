@@ -1,3 +1,9 @@
+- title: Hidden Figures
+  releaseYear: 2016
+  ratingOn10: 7
+  ratedDateOnly: 2026-02-01
+  imdbUrl: 'https://imdb.com/title/tt4846340'
+  imdbRuntimeMin: 127
 - title: Wake Up Dead Man
   releaseYear: 2025
   ratingOn10: 8
@@ -16,6 +22,12 @@
   ratedDateOnly: 2026-01-03
   imdbUrl: 'https://imdb.com/title/tt6752992'
   imdbRuntimeMin: 128
+- title: The Shape of Water
+  releaseYear: 2017
+  ratingOn10: 7
+  ratedDateOnly: 2025-12-27
+  imdbUrl: 'https://imdb.com/title/tt5580390'
+  imdbRuntimeMin: 123
 - title: Elemental
   releaseYear: 2023
   ratingOn10: 7
@@ -1200,8 +1212,8 @@
   imdbRuntimeMin: 114
 - title: Memento
   releaseYear: 2000
-  ratingOn10: 10
-  ratedDateOnly: '2013-05-24'
+  ratingOn10: 8
+  ratedDateOnly: 2026-02-15
   imdbUrl: 'https://www.imdb.com/title/tt0209144/'
   imdbRuntimeMin: 113
 - title: The Cell

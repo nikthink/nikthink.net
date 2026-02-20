@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added post and updated misc and movies</title>
+            <link>https://nikthink.net/posts/2026/take-back-the-strength.html</link>
+            <description>
+                added post and updated misc and movies
+            </description>
+            <pubDate>Thu, 19 Feb 2026 21:20:44 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:90deb7cf-4699-4be3-9e5c-f89532fd4930</guid>
+        </item>
+        <item>
             <title>added til log, and watched movies</title>
             <link>https://nikthink.net/misc/til.html</link>
             <description>

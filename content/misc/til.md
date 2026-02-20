@@ -6,6 +6,7 @@ title: 'TIL log'
 a log of small interesting-ish things i have learned.
 
 <!--more-->
+- 2026-02-11: [busybox](https://busybox.net/about.html) contains commands to decrypt `xz`, `ip link`, `wget`.
 - 2026-01-08: acrylic paint is mostly made of plastic. https://en.wikipedia.org/wiki/Acrylic_paint
 - 2025-10-26: [whale fall](https://en.wikipedia.org/wiki/Whale_fall)
 - 2025-10-24: scammers now distribute malware hidden inside interview code projects: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
