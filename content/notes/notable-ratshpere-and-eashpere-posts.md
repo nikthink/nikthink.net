@@ -169,6 +169,9 @@ in no particular order.
 - origin of prediction market idea: https://www.overcomingbias.com/p/hail-jeffrey-wernick
 - https://www.overcomingbias.com/p/conquest-and-liberation-of-academia
 
+## Tommy Crow
+- https://tommyjoancrow.substack.com/p/every-type-of-person-exists
+
 ## Jenn
 ### Loved jenn posts
 - https://jenn.site/in-my-misanthropy-era/
@@ -179,6 +182,7 @@ in no particular order.
 
 ### Loved aella posts
 - on status: https://aella.substack.com/p/pt4-power-hierarchies
+- on non-monogamy: https://aella.substack.com/p/the-pain-and-the-glory-of-nonmonogamy
 
 ## Mae
 posts from Mae on [Thoughts of Mine](https://thoughtsofmine.ca/).  

@@ -42,7 +42,8 @@ also see a list of cryptographically verified identities i have here: https://ke
 - [linkedin](https://www.linkedin.com/in/nicolas-%F0%9F%A6%BE-lacombe-9b380a35a/)
 
 ## Blogroll
-[blogroll](https://en.wikipedia.org/wiki/Blogroll): blogs and personal websites i especially like.
+[blogroll](https://en.wikipedia.org/wiki/Blogroll): blogs and personal websites i especially like.  
+see [Notable ratshpere and eashpere posts](https://nikthink.net/notes/notable-ratshpere-and-eashpere-posts.html) for more recommended posts and blogs.
 
 - lesser known personal websites
     - <https://jenn.site>

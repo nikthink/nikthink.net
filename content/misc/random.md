@@ -9,6 +9,7 @@ misc thoughts that are not important enough to put somewhere else.
 
 <!--more-->
 
+- 2026-03-04 : maybe from now on all humans must register under the .bio tld and all machines under [.bot tld](https://en.wikipedia.org/wiki/List_of_English-language_generic_Internet_top-level_domains)
 - 2026-02-12 : since linux 2.6.28 we've unlocked a 4th level of meta: "Since Linux 2.6.28, the kernel permits the interpreter of a script to itself be a script.  This permission is recursive, up to a limit of four recursions, so that the interpreter may be a script which is interpreted by a script, and so on."
 - 2025-12-04 : if we were in a simulation, factorio would be the honeypot
 - 2025-11-29 : sleep is when the gradient descent happens

@@ -25,6 +25,10 @@ a:visited {
     color: var(--visited-link-color);
 }
 
+img {
+    max-width: 100%;
+}
+
 table {
     border-collapse: collapse;
     margin: 1em 0;
@@ -76,4 +80,19 @@ table[data-sort-table] th:focus:after,
 table[data-sort-table] th:hover:after {
 	visibility: visible;
 	opacity: 1;
+}
+
+.post-metadata-nottitle {
+    font-size: 0.8em;
+    color: #888;
+    margin: 1em;
+}
+
+.list-inline {
+    display: inline;
+    padding: 0;
+}
+
+.list-inline li {
+    display: inline;
 }

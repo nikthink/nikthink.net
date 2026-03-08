@@ -14,6 +14,19 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added namecheap dns howto, now showing posts tags, other minor updates</title>
+            <link>https://nikthink.net/notes/namecheap-modify-records-howto.html</link>
+            <description>
+                - added howto guide on how to modify namecheap dns records
+                - now tags for posts are shown in post metadata to users underneath the post title
+                - added misc event log at /misc/misc-log.html
+                - added entries to /notes/notable-ratshpere-and-eashpere-posts.html
+                - minor updates
+            </description>
+            <pubDate>Sat, 07 Mar 2026 20:31:31 -0500</pubDate>
+            <guid isPermaLink="false">urn:uuid:648c60bf-2275-49ae-9968-d624087b2601</guid>
+        </item>
+        <item>
             <title>added post and updated misc and movies</title>
             <link>https://nikthink.net/posts/2026/take-back-the-strength.html</link>
             <description>

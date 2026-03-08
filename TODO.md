@@ -2,8 +2,18 @@
 
 <!-- qns-id=urn:uuid:2fe4adce-d507-4d3a-8226-14b5a1d3085d -->
 
-- misc
-    - 2025-09-21T20:48:34.073Z : 2025-09-21 : finished reading _If anyone builds it, everyone dies_
+- write pledge post.
+    - 4k for 2025. 10% of previous year spendings rounded up to thousand.
+    - for this time do donations first and then write where i donated in post and how much for each.
+    - for 2026 donation in 2027, make first post saying where i think of donating,
+      then ask feedback in post. then make another post on where i decided to donate.
+- write post. people say ai would have nothing to train on if no one created new content
+  bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
+  data and on previous ai like distillation. this could cause ai to have its values and knowledge
+  fixated to today's values/knowledge. (similar idea to gwern?)
+- big tech is doing it again. now with big ai models, you cant use them without a subscription,
+  even if you had the infra, because it's closed source and cloud only. and you cant really
+  download your data, because it's in the form of unstructured text conversations.
 
 - add link to web feed for posts
 - add book ratings and want to read lists and recommended to me lists
@@ -34,11 +44,11 @@
 
 
 ## To process
-- 2025-10-26: to change my mind log:
-    - karrigan carrie blog post. that chest might not be the most important spot
+- to change my mind log:
+    - ( 2025-10-26 maybe) karrigan carrie blog post. that chest might not be the most important spot
       for cryonics info. first responders might not look there. thank carrie.
       https://biostasis.substack.com/p/a-call-for-change-industry-wide-cryonics
-    - maybe it's ok to do "revloution" and remove the people inpower by force,
+    - (summer of 2025) maybe it's ok to do "revloution" and remove the people inpower by force,
       if it's not killing them or hurting them physically, iceland style. summer 2025. thank person who made me think about this.
 - 2025-10-26: to blog interpersonal relationships:
   intentionality, commitment, introspection, narratives,
