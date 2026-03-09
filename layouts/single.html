@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="h-entry">
+    <div class="post-metadata">
+        <h1 class="post-title p-name">{{ .Title }}</h1>
+        <div class="post-metadata-nottitle">
+            {{ partial "post-metadata.html" . }}
+        </div>
+    </div>
+    {{ .Summary }}
+    {{- if .Page.Params.Toc -}}
+        {{ .TableOfContents }}
+    {{- end -}}
+    <div class="post-content e-content">
+        {{ .ContentWithoutSummary }}
+    </div>
+</article>
+{{ end }}

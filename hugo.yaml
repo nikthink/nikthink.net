@@ -22,7 +22,7 @@ outputs:
 pagination:
   pagerSize: 100
 params:
-    author: Nik Lacombe
+    author: nik lacombe
     siteHeaderText: nikthink.net
     siteFooterText: |
         Please [download this full website](/archives/nikthink-net-full-latest.tgz).
@@ -30,7 +30,7 @@ params:
     colors: default
     customStylesheet: css/main.css
     hcard:
-        fullName: Nik Lacombe
+        fullName: nik lacombe
         social:
             - platform: email
               identity: nicolas.m.lacombe@gmail.com

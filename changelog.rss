@@ -14,6 +14,17 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added link to steam profile, updated signal link</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                - added link to steam profile
+                - moved hugo layout files to new hugo directory structure
+                - other minor updates
+            </description>
+            <pubDate>Mon, 09 Mar 2026 16:44:26 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:28471043-9f5d-43d5-af80-41c18f5bca58</guid>
+        </item>
+        <item>
             <title>added namecheap dns howto, now showing posts tags, other minor updates</title>
             <link>https://nikthink.net/notes/namecheap-modify-records-howto.html</link>
             <description>

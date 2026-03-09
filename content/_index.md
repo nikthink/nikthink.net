@@ -8,15 +8,13 @@ menu:
 ---
 
 hi, im nik, this is my website.  
-i am a [relationship anarchist](https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy).
-i organize [pauseai montreal](https://pauseai.ca/montreal).
+i am a [relationship anarchist](https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy).  
+i live in [montreal](https://en.wikipedia.org/wiki/Montreal).
 
 on top of web feeds per post categories (ex for [all posts](/posts/index.xml)),
 there is a [changelog feed](/changelog.rss) for the whole website.
 
 <!-- more -->
-
-i live in [montreal](https://en.wikipedia.org/wiki/Montreal).
 
 ## Accounts
 here are places you can contact me, and a list of accounts on other websites/apps.
@@ -32,13 +30,14 @@ also see a list of cryptographically verified identities i have here: https://ke
     - please use my [pgp key](/pgp-key.html) if you know how.
       otherwise no worries.
 - discord username: [nikthink](https://discordapp.com/users/866092094015668235)
-- signal (app) username: [nikthink.42](https://signal.me/#eu/mfx3Xdh38_4cB8Ic60U1thc3kASzgh8K5ppdUUUX591rYJiBxFRKCar1lX8JBb_R)
+- signal (app) username: [nikthink.42](https://signal.me/#eu/cDqBZ04Tps74QB9OqQ80mNAIm80IplZ7U8SkKVSmXWpoxpt81dFJxqeXhPK9_0A9)
 - admonymous (anonymous feedback): https://www.admonymous.co/nikthink
 - facebook / facebook messenger: https://www.facebook.com/nikthink
 - spotify: https://open.spotify.com/user/22zp7medvckidhcq4aqrpbedy
 - last.fm: https://www.last.fm/user/nikthink
     - see what im listening to right now or my song listening history
 - manifold: [nikthink](https://manifold.markets/nikthink)
+- steam: [nikthink](https://steamcommunity.com/id/nikthink/)
 - [linkedin](https://www.linkedin.com/in/nicolas-%F0%9F%A6%BE-lacombe-9b380a35a/)
 
 ## Blogroll
