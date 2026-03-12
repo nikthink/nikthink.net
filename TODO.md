@@ -7,13 +7,25 @@
     - for this time do donations first and then write where i donated in post and how much for each.
     - for 2026 donation in 2027, make first post saying where i think of donating,
       then ask feedback in post. then make another post on where i decided to donate.
-- write post. people say ai would have nothing to train on if no one created new content
-  bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
-  data and on previous ai like distillation. this could cause ai to have its values and knowledge
-  fixated to today's values/knowledge. (similar idea to gwern?)
-- big tech is doing it again. now with big ai models, you cant use them without a subscription,
-  even if you had the infra, because it's closed source and cloud only. and you cant really
-  download your data, because it's in the form of unstructured text conversations.
+- ai speculation
+    - write post. people say ai would have nothing to train on if no one created new content
+      bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
+      data and on previous ai like distillation. this could cause ai to have its values and knowledge
+      fixated to today's values/knowledge. (similar idea to gwern?)
+    - big tech is doing it again. now with big ai models, you cant use them without a subscription,
+      even if you had the infra, because it's closed source and cloud only. and you cant really
+      download your data, because it's in the form of unstructured text conversations.
+    - maybe if there is an ai bubble and it pops after more gpu in data centers are built,
+      then things like streaming videogames from data centers (stadia?) will be a next profitable
+      business because gpu in data centers would be very cheap for a while?
+      and if it was fibre connection too sparse that was preventing stadia-like from being mainstream,
+      it looks like there is more fibre and more gamers now?
+- messy profile page with many points. living document.
+    - find what the best name for this is.
+    - the start info can be from my `bio.md` note. and take ideas from wiki page of known people for fields.
+    - inspiration
+        - tommy substack profile post.
+        - https://gwern.net/me
 
 - add link to web feed for posts
 - add book ratings and want to read lists and recommended to me lists

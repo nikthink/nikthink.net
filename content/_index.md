@@ -38,6 +38,7 @@ also see a list of cryptographically verified identities i have here: https://ke
     - see what im listening to right now or my song listening history
 - manifold: [nikthink](https://manifold.markets/nikthink)
 - steam: [nikthink](https://steamcommunity.com/id/nikthink/)
+    - [wishlist](https://store.steampowered.com/wishlist/id/nikthink/?sort=dateadded)
 - [linkedin](https://www.linkedin.com/in/nicolas-%F0%9F%A6%BE-lacombe-9b380a35a/)
 
 ## Blogroll
