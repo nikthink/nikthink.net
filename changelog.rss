@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>updated hugo versio to 0.157.0</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                updated hugo versio to 0.157.0
+            </description>
+            <pubDate>Wed, 11 Mar 2026 20:47:29 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:e9e46760-84f2-4269-80d5-65688fc76113</guid>
+        </item>
+        <item>
             <title>added last-modified post metadata</title>
             <link>https://nikthink.net/</link>
             <description>
