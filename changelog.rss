@@ -14,6 +14,18 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>created makefile, added mermaidjs graph</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                - created makefile
+                - added mermaidjs graph
+                - fixed css and logo for file:// viewing
+                - moved images for namecheap post to its own post directory
+            </description>
+            <pubDate>Fri, 13 Mar 2026 19:36:37 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:2a3053da-5b4a-4ec1-8fe4-2998fa34ae37</guid>
+        </item>
+        <item>
             <title>updated hugo versio to 0.157.0</title>
             <link>https://nikthink.net/</link>
             <description>

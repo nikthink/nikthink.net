@@ -3,11 +3,8 @@
 hugoBuildFlags="--enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings $1"
 
 build() {
-    rm -rf ./public/ &&
-        hugo -b / $hugoBuildFlags &&
-        cp -a ./changelog.rss ./data/ ./public/ &&
-        mkdir ./public/archives/ &&
-        tar -zcf ./public/archives/nikthink-net-full-latest.tgz .editorconfig .github/workflows/* ./*
+    rm -rf ./public/
+    make all
 }
 
 build

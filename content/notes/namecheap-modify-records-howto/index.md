@@ -13,17 +13,17 @@ here are the instructions for how to set the dns records for the email server.
 
 1. login to namecheap.
 
-![namecheap ui screenshot 1](/posts-images/namecheap-modify-records-howto/namecheap-modify-records-howto_p1.png "screenshot 1 showing namecheap ui")
+![namecheap ui screenshot 1](namecheap-modify-records-howto/namecheap-screenshot_p1.png "screenshot 1 showing namecheap ui")
 
 
 2. go to "Domain List". then find the appropriate domain in the list.
    then click on the "MANAGE" button on the same row for that domain.
 
-![namecheap ui screenshot 2](/posts-images/namecheap-modify-records-howto/namecheap-modify-records-howto_p2.png "screenshot 2 showing namecheap ui")
+![namecheap ui screenshot 2](namecheap-modify-records-howto/namecheap-screenshot_p2.png "screenshot 2 showing namecheap ui")
 
 3. click on "Avanced DNS". click on "SHOW MORE" if you see it.
 
-![namecheap ui screenshot 3](/posts-images/namecheap-modify-records-howto/namecheap-modify-records-howto_p3.png "screenshot 3 showing namecheap ui")
+![namecheap ui screenshot 3](namecheap-modify-records-howto/namecheap-screenshot_p3.png "screenshot 3 showing namecheap ui")
 
 4. every row in that table is a dns record. the rightmost column contains
    a thrash icon that you can use to delete a record. deleting a record and

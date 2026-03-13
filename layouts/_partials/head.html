@@ -7,19 +7,19 @@
     {{ hugo.Generator }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     {{- with .Site.Params.Colors -}}
-    <link rel="stylesheet" href="{{ (printf "css/colors-%s.css" .) | absURL }}">
+    <link rel="stylesheet" href="{{ (printf "/css/colors-%s.css" .) }}">
     {{- else -}}
-    <link rel="stylesheet" href="{{ "css/colors-default.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "/css/colors-default.css" }}">
     {{ end }}
-    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "/css/style.css" }}">
     {{- with .Site.Params.CustomStylesheet -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
+    <link rel="stylesheet" href="/{{ . }}">
     {{ end }}
     {{ with .OutputFormats.Get "rss" -}}
     {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
     {{ end }}
 
-    <link rel="icon" type="image/svg+xml" href="{{ "nikthink-logo.svg" | absURL}}">
+    <link rel="icon" type="image/svg+xml" href="/nikthink-logo.svg">
 
     <script src="/js/3rdparty/tablesort.js"></script>
     <script src="/js/3rdparty/tablesort.number.js"></script>

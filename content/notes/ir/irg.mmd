@@ -1,0 +1,35 @@
+---
+config:
+    theme: forest
+displayMode: compact
+---
+%% mermaidjs gantt chart : https://mermaid.ai/open-source/syntax/gantt.html
+
+gantt
+    title IR
+    dateFormat YYYY-MM
+    axisFormat %Y
+    tickInterval 12month
+
+    section M
+        L1    : done,   2011-01, 2011-11
+        V2    : done,   2011-12, 2013-07
+        C3    : done,   2013-08, 2015-12
+    section NM1
+        M4    : done,   2017-09, 2018-12
+        R5    : done,   2018-11, 2021-05
+        M7    : done,   2019-03, 2019-08
+        N8    : done,   2019-04, 2019-11
+        S9    : done,   2021-09, 2022-01
+        S10   : done,   2022-08, 2024-05
+        L11   : done,   2023-10, 2024-05
+        G12   : done,   2024-09, 2025-02
+    section P6
+        P6A   : done,   2019-01, 2019-04
+        P6B   : done,   2025-02, 2026-02
+    section NM2
+        M13   : active, 2025-06, 2026-03
+        S14   : active, 2025-07, 2026-03
+    section S15
+        S15A  : active, 2025-07, 2025-09
+        S15B  : active, 2026-02, 2026-03
