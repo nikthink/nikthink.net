@@ -14,6 +14,17 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added tags to media ratings</title>
+            <link>https://nikthink.net/notes/media-ratings.html</link>
+            <description>
+                - added tags to media ratings
+                - added movie recs from noah
+                - minor changes
+            </description>
+            <pubDate>Mon, 16 Mar 2026 19:45:27 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:a0cf6a11-a611-4a04-bb42-8707762f98c0</guid>
+        </item>
+        <item>
             <title>created makefile, added mermaidjs graph</title>
             <link>https://nikthink.net/</link>
             <description>

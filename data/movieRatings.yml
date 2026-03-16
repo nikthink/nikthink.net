@@ -52,12 +52,14 @@
   ratedDateOnly: 2025-12-05
   imdbUrl: 'https://www.imdb.com/title/tt12300742'
   imdbRuntimeMin: 118
+  tags: sci-fy comedy
 - title: Train Dreams
   releaseYear: 2025
   ratingOn10: 8
   ratedDateOnly: 2025-11-22
   imdbUrl: 'https://www.imdb.com/title/tt29768334'
   imdbRuntimeMin: 102
+  tags: train period
 - title: Ma vie de Courgette
   releaseYear: 2016
   ratingOn10: 8
@@ -70,6 +72,7 @@
   ratedDateOnly: 2025-11-08
   imdbUrl: 'https://www.imdb.com/title/tt26915336'
   imdbRuntimeMin: 88
+  tags: sci-fi animated french neo-noir
 - title: 'Dune: Part Two'
   releaseYear: 2024
   ratingOn10: 9
@@ -100,6 +103,7 @@
   ratedDateOnly: 2025-09-28
   imdbUrl: 'https://www.imdb.com/title/tt0113568'
   imdbRuntimeMin: 83
+  tags: sci-fi animated tech-noir neo-noir cyberpunk
 - title: Abominable
   releaseYear: 2019
   ratingOn10: 5
@@ -142,6 +146,7 @@
   ratedDateOnly: '2022'
   imdbUrl: 'https://www.imdb.com/title/tt0129167'
   imdbRuntimeMin: 86
+  tags: animated sci-fi
 - title: The Age of Adaline
   releaseYear: 2015
   ratingOn10: 4
@@ -172,6 +177,7 @@
   ratedDateOnly: '2024'
   imdbUrl: 'https://www.imdb.com/title/tt1560220'
   imdbRuntimeMin: 99
+  tags: post-apocalyptic zombie comedy virus-bio
 - title: 'Pirates of the Caribbean: Dead Men Tell No Tales'
   releaseYear: 2017
   ratingOn10: 6
@@ -322,6 +328,7 @@
   ratedDateOnly: '2022-04-22'
   imdbUrl: 'https://www.imdb.com/title/tt0328832/'
   imdbRuntimeMin: 100
+  tags: animated sci-fi cyberpunk future
 - title: Total Recall
   releaseYear: 1990
   ratingOn10: 7
@@ -382,6 +389,7 @@
   ratedDateOnly: '2021-12-18'
   imdbUrl: 'https://www.imdb.com/title/tt0107943/'
   imdbRuntimeMin: 134
+  tags: period
 - title: 'Schindler''s List'
   releaseYear: 1993
   ratingOn10: 8
@@ -400,6 +408,7 @@
   ratedDateOnly: '2015-06-26'
   imdbUrl: 'https://www.imdb.com/title/tt1087842/'
   imdbRuntimeMin: 98
+  tags: sci-fi horror cyberpunk
 - title: Tron
   releaseYear: 2010
   ratingOn10: 7
@@ -442,6 +451,7 @@
   ratedDateOnly: '2015-05-30'
   imdbUrl: 'https://www.imdb.com/title/tt0112682/'
   imdbRuntimeMin: 112
+  tags: french steampunk sci-fi
 - title: 'Don''t Look Up'
   releaseYear: 2021
   ratingOn10: 4
@@ -502,6 +512,7 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0114746/'
   imdbRuntimeMin: 129
+  tags: sci-fi neo-noir time-travel post-apocalyptic virus-bio future
 - title: The Usual Suspects
   releaseYear: 1995
   ratingOn10: 8
@@ -580,6 +591,7 @@
   ratedDateOnly: '2015-05-27'
   imdbUrl: 'https://www.imdb.com/title/tt0118929/'
   imdbRuntimeMin: 100
+  tags: neo-noir sci-fi
 - title: 'The Devil''s Advocate'
   releaseYear: 1997
   ratingOn10: 8
@@ -634,6 +646,7 @@
   ratedDateOnly: '2015-05-27'
   imdbUrl: 'https://www.imdb.com/title/tt0120184/'
   imdbRuntimeMin: 134
+  tags: sci-fi psychological
 - title: The Truman Show
   releaseYear: 1998
   ratingOn10: 7
@@ -742,6 +755,7 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0123755/'
   imdbRuntimeMin: 90
+  tags: psychological horror sci-fi maze
 - title: 'X-Men: First Class'
   releaseYear: 2011
   ratingOn10: 7
@@ -754,6 +768,7 @@
   ratedDateOnly: '2015-04-06'
   imdbUrl: 'https://www.imdb.com/title/tt1276104/'
   imdbRuntimeMin: 119
+  tags: future time-travel
 - title: My Octopus Teacher
   releaseYear: 2020
   ratingOn10: 7
@@ -784,12 +799,14 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0133093/'
   imdbRuntimeMin: 136
+  tags: sci-fi neo-noir post-apocalyptic cyberpunk computer-hacking philosophy
 - title: '5150, rue des Ormes'
   releaseYear: 2009
   ratingOn10: 9
   ratedDateOnly: '2016-05-22'
   imdbUrl: 'https://www.imdb.com/title/tt1331291/'
   imdbRuntimeMin: 110
+  tags: psychological horror french
 - title: Planet of the Apes
   releaseYear: 2001
   ratingOn10: 7
@@ -826,6 +843,7 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt1375666/'
   imdbRuntimeMin: 148
+  tags: sci-fi
 - title: Total Recall
   releaseYear: 2012
   ratingOn10: 6
@@ -880,6 +898,7 @@
   ratedDateOnly: '2020-10-31'
   imdbUrl: 'https://www.imdb.com/title/tt1431045/'
   imdbRuntimeMin: 108
+  tags: comedy
 - title: The World Is Not Enough
   releaseYear: 1999
   ratingOn10: 9
@@ -928,6 +947,7 @@
   ratedDateOnly: '2014-11-04'
   imdbUrl: 'https://www.imdb.com/title/tt1510938/'
   imdbRuntimeMin: 91
+  tags: play-like one-room philosophy
 - title: Elysium
   releaseYear: 2013
   ratingOn10: 6
@@ -946,6 +966,7 @@
   ratedDateOnly: '2020-10-12'
   imdbUrl: 'https://www.imdb.com/title/tt1598778/'
   imdbRuntimeMin: 106
+  tags: virus-bio
 - title: Cast Away
   releaseYear: 2000
   ratingOn10: 7
@@ -964,6 +985,7 @@
   ratedDateOnly: '2013-11-08'
   imdbUrl: 'https://www.imdb.com/title/tt1637688/'
   imdbRuntimeMin: 109
+  tags: sci-fi philosophy transhumanism future
 - title: Super 8
   releaseYear: 2011
   ratingOn10: 7
@@ -1024,12 +1046,14 @@
   ratedDateOnly: '2021-10-04'
   imdbUrl: 'https://www.imdb.com/title/tt1706620/'
   imdbRuntimeMin: 126
+  tags: post-apocalyptic train sci-fi
 - title: Metropolis
   releaseYear: 1927
   ratingOn10: 8
   ratedDateOnly: '2017-09-20'
   imdbUrl: 'https://www.imdb.com/title/tt0017136/'
   imdbRuntimeMin: 153
+  tags: silent black-and-white sci-fi philosophy
 - title: 'Ender''s Game'
   releaseYear: 2013
   ratingOn10: 8
@@ -1126,6 +1150,7 @@
   ratedDateOnly: '2017-10-08'
   imdbUrl: 'https://www.imdb.com/title/tt1856101/'
   imdbRuntimeMin: 164
+  tags: sci-fi neo-noir cyberpunk psychological philosophy future
 - title: Safety Not Guaranteed
   releaseYear: 2012
   ratingOn10: 5
@@ -1348,6 +1373,7 @@
   ratedDateOnly: '2015-04-06'
   imdbUrl: 'https://www.imdb.com/title/tt2397535/'
   imdbRuntimeMin: 97
+  tags: sci-fi time-travel
 - title: The Invitation
   releaseYear: 2015
   ratingOn10: 6
@@ -1372,6 +1398,7 @@
   ratedDateOnly: '2016-11-26'
   imdbUrl: 'https://www.imdb.com/title/tt2414766/'
   imdbRuntimeMin: 109
+  tags: sci-fi
 - title: The Matrix Revolutions
   releaseYear: 2003
   ratingOn10: 6
@@ -1432,6 +1459,7 @@
   ratedDateOnly: '2015-02-01'
   imdbUrl: 'https://www.imdb.com/title/tt2582802/'
   imdbRuntimeMin: 106
+  tags: psychological
 - title: The Bourne Identity
   releaseYear: 2002
   ratingOn10: 8
@@ -1456,6 +1484,7 @@
   ratedDateOnly: '2018-08-08'
   imdbUrl: 'https://www.imdb.com/title/tt2669336/'
   imdbRuntimeMin: 104
+  tags: time-travel sci-fi
 - title: I.T.
   releaseYear: 2016
   ratingOn10: 6
@@ -1468,12 +1497,14 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0268695/'
   imdbRuntimeMin: 96
+  tags: time-travel post-apocalyptic sci-fi adventure
 - title: Young Ones
   releaseYear: 2014
   ratingOn10: 9
   ratedDateOnly: '2016-10-18'
   imdbUrl: 'https://www.imdb.com/title/tt2693664/'
   imdbRuntimeMin: 100
+  tags: sci-fi post-apocalyptic future
 - title: Fury
   releaseYear: 2014
   ratingOn10: 6
@@ -1510,6 +1541,7 @@
   ratedDateOnly: '2015-02-23'
   imdbUrl: 'https://www.imdb.com/title/tt2872718/'
   imdbRuntimeMin: 117
+  tags: neo-noir psychological
 - title: Lucy
   releaseYear: 2014
   ratingOn10: 5
@@ -1528,6 +1560,7 @@
   ratedDateOnly: '2014-11-04'
   imdbUrl: 'https://www.imdb.com/title/tt0289043/'
   imdbRuntimeMin: 113
+  tags: post-apocalyptic virus-bio horror zombie
 - title: The Butterfly Effect
   releaseYear: 2004
   ratingOn10: 6
@@ -1570,18 +1603,21 @@
   ratedDateOnly: '2016-03-06'
   imdbUrl: 'https://www.imdb.com/title/tt0319061/'
   imdbRuntimeMin: 125
+  tags: sailor-story-custom-nik real-and-fiction-blend fantasy
 - title: The Wizard of Oz
   releaseYear: 1939
   ratingOn10: 8
   ratedDateOnly: '2021-07-29'
   imdbUrl: 'https://www.imdb.com/title/tt0032138/'
   imdbRuntimeMin: 102
+  tags: musical fantasy adventure
 - title: Fantasia
   releaseYear: 1940
   ratingOn10: 9
   ratedDateOnly: '2020-12-26'
   imdbUrl: 'https://www.imdb.com/title/tt0032455/'
   imdbRuntimeMin: 125
+  tags: music
 - title: 'Pirates of the Caribbean: The Curse of the Black Pearl'
   releaseYear: 2003
   ratingOn10: 8
@@ -1618,6 +1654,7 @@
   ratedDateOnly: '2015-05-26'
   imdbUrl: 'https://www.imdb.com/title/tt0343737/'
   imdbRuntimeMin: 167
+  tags: spy
 - title: I, Robot
   releaseYear: 2004
   ratingOn10: 7
@@ -1648,6 +1685,7 @@
   ratedDateOnly: '2015-05-27'
   imdbUrl: 'https://www.imdb.com/title/tt0360486/'
   imdbRuntimeMin: 121
+  tags: supernatural fantasy dark-fantasy demons-angels
 - title: Inglourious Basterds
   releaseYear: 2009
   ratingOn10: 6
@@ -1732,6 +1770,7 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0377713/'
   imdbRuntimeMin: 97
+  tags: sci-fi psychological horror maze
 - title: Serenity
   releaseYear: 2005
   ratingOn10: 6
@@ -1774,6 +1813,7 @@
   ratedDateOnly: '2018-04-13'
   imdbUrl: 'https://www.imdb.com/title/tt3839880/'
   imdbRuntimeMin: 103
+  tags: ai one-room play-like duo psychological
 - title: Baby Driver
   releaseYear: 2017
   ratingOn10: 7
@@ -1798,6 +1838,7 @@
   ratedDateOnly: '2015-07-05'
   imdbUrl: 'https://www.imdb.com/title/tt0390384/'
   imdbRuntimeMin: 77
+  tags: time-travel
 - title: The Call Up
   releaseYear: 2016
   ratingOn10: 6
@@ -1900,6 +1941,7 @@
   ratedDateOnly: '2014-07-16'
   imdbUrl: 'https://www.imdb.com/title/tt0414993/'
   imdbRuntimeMin: 97
+  tags: epic sci-fi immortality
 - title: Jason Bourne
   releaseYear: 2016
   ratingOn10: 7
@@ -1936,6 +1978,7 @@
   ratedDateOnly: '2020-10-07'
   imdbUrl: 'https://www.imdb.com/title/tt0434409/'
   imdbRuntimeMin: 132
+  tags: anarchist
 - title: Next
   releaseYear: 2007
   ratingOn10: 6
@@ -2046,16 +2089,18 @@
   imdbRuntimeMin: 152
 - title: There Will Be Blood
   releaseYear: 2007
-  ratingOn10: 7
+  ratingOn10: 8
   ratedDateOnly: '2015-08-02'
   imdbUrl: 'https://www.imdb.com/title/tt0469494/'
   imdbRuntimeMin: 158
+  tags: period epic
 - title: Ex Machina
   releaseYear: 2014
   ratingOn10: 9
   ratedDateOnly: '2015-05-17'
   imdbUrl: 'https://www.imdb.com/title/tt0470752/'
   imdbRuntimeMin: 108
+  tags: sci-fi ai psychological
 - title: State of Play
   releaseYear: 2009
   ratingOn10: 8
@@ -2080,12 +2125,14 @@
   ratedDateOnly: '2015-05-27'
   imdbUrl: 'https://www.imdb.com/title/tt0480249/'
   imdbRuntimeMin: 101
+  tags: sci-fi post-apocalyptic survival virus-bio future
 - title: Timecrimes
   releaseYear: 2007
   ratingOn10: 8
   ratedDateOnly: '2015-09-23'
   imdbUrl: 'https://www.imdb.com/title/tt0480669/'
   imdbRuntimeMin: 92
+  tags: time-travel
 - title: The Prestige
   releaseYear: 2006
   ratingOn10: 8
@@ -2104,6 +2151,7 @@
   ratedDateOnly: '2014-08-18'
   imdbUrl: 'https://www.imdb.com/title/tt0485947/'
   imdbRuntimeMin: 141
+  tags: sci-fi
 - title: Fracture
   releaseYear: 2007
   ratingOn10: 8
@@ -2128,12 +2176,14 @@
   ratedDateOnly: '2013-11-14'
   imdbUrl: 'https://www.imdb.com/title/tt0050083/'
   imdbRuntimeMin: 96
+  tags: play-like one-room black-and-white
 - title: Get Out
   releaseYear: 2017
   ratingOn10: 8
   ratedDateOnly: '2018-03-21'
   imdbUrl: 'https://www.imdb.com/title/tt5052448/'
   imdbRuntimeMin: 104
+  tags: psychological horror
 - title: The Unthinkable
   releaseYear: 2018
   ratingOn10: 8
@@ -2158,6 +2208,7 @@
   ratedDateOnly: '2020-10-11'
   imdbUrl: 'https://www.imdb.com/title/tt5463162/'
   imdbRuntimeMin: 119
+  tags: comedy
 - title: ARQ
   releaseYear: 2016
   ratingOn10: 7
@@ -2170,6 +2221,7 @@
   ratedDateOnly: '2019-09-01'
   imdbUrl: 'https://www.imdb.com/title/tt0056732/'
   imdbRuntimeMin: 95
+  tags: surrealist psychological one-room
 - title: '2001: A Space Odyssey'
   releaseYear: 1968
   ratingOn10: 6
@@ -2182,6 +2234,7 @@
   ratedDateOnly: '2020-09-14'
   imdbUrl: 'https://www.imdb.com/title/tt6292852/'
   imdbRuntimeMin: 113
+  tags: sci-fi ai ectogenesis cyberpunk
 - title: Oxygen
   releaseYear: 2021
   ratingOn10: 5
@@ -2218,12 +2271,14 @@
   ratedDateOnly: '2020-09-13'
   imdbUrl: 'https://www.imdb.com/title/tt6499752/'
   imdbRuntimeMin: 100
+  tags: cyberpunk sci-fi ai
 - title: A Clockwork Orange
   releaseYear: 1971
   ratingOn10: 7
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0066921/'
   imdbRuntimeMin: 136
+  tags: psychological future
 - title: Everything Everywhere All at Once
   releaseYear: 2022
   ratingOn10: 7
@@ -2260,12 +2315,14 @@
   ratedDateOnly: '2018-04-29'
   imdbUrl: 'https://www.imdb.com/title/tt0071615/'
   imdbRuntimeMin: 114
+  tags: surrealist imagery
 - title: Monty Python and the Holy Grail
   releaseYear: 1975
   ratingOn10: 8
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0071853/'
   imdbRuntimeMin: 91
+  tags: comedy
 - title: Joker
   releaseYear: 2019
   ratingOn10: 8
@@ -2320,12 +2377,14 @@
   ratedDateOnly: '2020-11-02'
   imdbUrl: 'https://www.imdb.com/title/tt7946422/'
   imdbRuntimeMin: 100
+  tags: sci-fi different atmosphere
 - title: Life of Brian
   releaseYear: 1979
   ratingOn10: 7
   ratedDateOnly: '2019-09-01'
   imdbUrl: 'https://www.imdb.com/title/tt0079470/'
   imdbRuntimeMin: 94
+  tags: comedy
 - title: Star Trek
   releaseYear: 2009
   ratingOn10: 8
@@ -2340,10 +2399,11 @@
   imdbRuntimeMin: 123
 - title: The Lighthouse
   releaseYear: 2019
-  ratingOn10: 8
+  ratingOn10: 9
   ratedDateOnly: '2022-01-31'
   imdbUrl: 'https://www.imdb.com/title/tt7984734/'
   imdbRuntimeMin: 109
+  tags: black-and-white nautical-fiction lighthouse sailor-story-custom-nik psychological real-and-fiction-blend
 - title: 'Star Trek: The Motion Picture'
   releaseYear: 1979
   ratingOn10: 4
@@ -2362,18 +2422,21 @@
   ratedDateOnly: '2014-11-09'
   imdbUrl: 'https://www.imdb.com/title/tt0816692/'
   imdbRuntimeMin: 169
+  tags: sci-fi
 - title: Das Boot
   releaseYear: 1981
   ratingOn10: 9
   ratedDateOnly: '2021-08-12'
   imdbUrl: 'https://www.imdb.com/title/tt0082096/'
   imdbRuntimeMin: 149
+  tags: historical-war submarine
 - title: The Platform
   releaseYear: 2019
   ratingOn10: 7
   ratedDateOnly: '2020-10-03'
   imdbUrl: 'https://www.imdb.com/title/tt8228288/'
   imdbRuntimeMin: 94
+  tags: sci-fi horror philosophy
 - title: Raiders of the Lost Ark
   releaseYear: 1981
   ratingOn10: 7
@@ -2404,6 +2467,7 @@
   ratedDateOnly: '2013-03-24'
   imdbUrl: 'https://www.imdb.com/title/tt0857265/'
   imdbRuntimeMin: 88
+  tags: play-like duo psychological
 - title: The Meaning of Life
   releaseYear: 1983
   ratingOn10: 6
@@ -2458,12 +2522,14 @@
   ratedDateOnly: '2015-07-07'
   imdbUrl: 'https://www.imdb.com/title/tt0088247/'
   imdbRuntimeMin: 107
+  tags: sci-fi cyberpunk
 - title: Back to the Future
   releaseYear: 1985
   ratingOn10: 9
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0088763/'
   imdbRuntimeMin: 116
+  tags: sci-fi comedy
 - title: The Hurt Locker
   releaseYear: 2008
   ratingOn10: 7
@@ -2476,6 +2542,7 @@
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0090605/'
   imdbRuntimeMin: 137
+  tags: sci-fi suspended-animation future
 - title: 'WALL·E'
   releaseYear: 2008
   ratingOn10: 6
@@ -2554,6 +2621,7 @@
   ratedDateOnly: '2022-09-18'
   imdbUrl: 'https://www.imdb.com/title/tt0099334/'
   imdbRuntimeMin: 137
+  tags: french period comedy
 - title: The Godfather Part III
   releaseYear: 1990
   ratingOn10: 7

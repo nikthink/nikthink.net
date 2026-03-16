@@ -8,6 +8,7 @@
         <th>Title (year) [imdbUrl]</th>
         <th data-sort-default data-sort-reverse>Rating (on 10)</th>
         <th>Runtime</th>
+        <th>Tags</th>
     </tr>
     </thead>
     <tbody>
@@ -25,6 +26,7 @@
             {{- $duration := time.Duration "m" $minutes -}}
             {{ replace $duration.String "0s" "" }}
         </td>
+        <td>{{ index $row "tags" }}</td>
     </tr>
 {{- else -}}
 <p style="color: red">error: data not an array</p>

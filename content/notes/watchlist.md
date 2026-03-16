@@ -1,7 +1,7 @@
 ---
 date: '2025-11-05T00:10:58-05:00'
 draft: false
-title: 'Watchlist'
+title: 'Watchlist (movies)'
 ---
 media which i might want to watch
 
@@ -10,6 +10,6 @@ media which i might want to watch
 ## Movies
 you can find the [source yaml data file here](/data/moviesToWatch.yml)
 
-more ideas at [metacritic's websitehttps://www.metacritic.com/browse/movie/netflix/all/all-time/metascore/?releaseYearMin=1910&network=netflix].
+more ideas at [metacritic's website](https://www.metacritic.com/browse/movie/netflix/all/all-time/metascore/?releaseYearMin=1910&network=netflix).
 
 {{< moviesToWatchTable "moviesToWatch" >}}

@@ -1,7 +1,7 @@
 ---
 date: '2025-07-14T22:53:53-04:00'
 draft: false
-title: 'Media ratings'
+title: 'Media ratings (movies, series, shorts)'
 ---
 media which i rated.
 

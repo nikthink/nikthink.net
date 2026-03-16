@@ -1,3 +1,194 @@
+- title: Exam
+  releaseYear: 2009
+  addedDateOnly: '2015-07-05'
+  imdbUrl: 'https://www.imdb.com/title/tt1258197/'
+  imdbRuntimeMin: 101
+  recommendedBy: noah, maybe mati
+  comment: noah 3/11
+- title: Circle
+  releaseYear: 2015
+  imdbUrl: 'https://www.imdb.com/title/tt3118452'
+  imdbRuntimeMin: 87
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 1/11
+- title: Tape
+  releaseYear: 2001 
+  imdbUrl: 'https://www.imdb.com/title/tt0275719'
+  imdbRuntimeMin: 86
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 2/11
+- title: Searching
+  releaseYear: 2018
+  imdbUrl: 'https://www.imdb.com/title/tt7668870'
+  imdbRuntimeMin: 102
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 4/11
+- title: Control
+  releaseYear: 2022
+  imdbUrl: 'https://www.imdb.com/title/tt14036276'
+  imdbRuntimeMin: 90
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 5/11
+- title: Phone Booth
+  releaseYear: 2002
+  imdbUrl: 'https://www.imdb.com/title/tt0183649'
+  imdbRuntimeMin: 81
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 6/11
+- title: Tangent Room
+  releaseYear: 2017
+  imdbUrl: 'https://www.imdb.com/title/tt4230078'
+  imdbRuntimeMin: 64
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 7/11
+- title: Travelling Salesman
+  releaseYear: 2012
+  imdbUrl: 'https://www.imdb.com/title/tt1801123'
+  imdbRuntimeMin: 80
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 8/11
+- title: Unknown
+  releaseYear: 2006
+  imdbUrl: 'https://www.imdb.com/title/tt0450340'
+  imdbRuntimeMin: 85
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 9/11
+- title: Sightless
+  releaseYear: 2020
+  imdbUrl: 'https://www.imdb.com/title/tt10303430'
+  imdbRuntimeMin: 89
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 10/11
+- title: Run
+  releaseYear: 2020
+  imdbUrl: 'https://www.imdb.com/title/tt8633478'
+  imdbRuntimeMin: 90
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+  comment: noah 11/11
+- title: Melancholia
+  releaseYear: 2011
+  imdbUrl: 'https://www.imdb.com/title/tt1527186'
+  imdbRuntimeMin: 135
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Resolution
+  releaseYear: 2012
+  imdbUrl: 'https://www.imdb.com/title/tt1977895'
+  imdbRuntimeMin: 93
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Triangle
+  releaseYear: 2009
+  imdbUrl: 'https://www.imdb.com/title/tt1187064'
+  imdbRuntimeMin: 99
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: The Vast of Night
+  releaseYear: 2019
+  imdbUrl: 'https://www.imdb.com/title/tt6803046'
+  imdbRuntimeMin: 91
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: I'm Thinking of Ending Things
+  releaseYear: 2020
+  imdbUrl: 'https://www.imdb.com/title/tt7939766'
+  imdbRuntimeMin: 134
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Pi
+  releaseYear: 1998
+  imdbUrl: 'https://www.imdb.com/title/tt0138704'
+  imdbRuntimeMin: 
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: The Jacket
+  releaseYear: 2005
+  imdbUrl: 'https://www.imdb.com/title/tt0366627'
+  imdbRuntimeMin: 103
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Radius
+  releaseYear: 2017
+  imdbUrl: 'https://www.imdb.com/title/tt6097798'
+  imdbRuntimeMin: 93
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Palm Springs
+  releaseYear: 2020
+  imdbUrl: 'https://www.imdb.com/title/tt9484998'
+  imdbRuntimeMin: 90
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: The Artifice Girl
+  releaseYear: 2022
+  imdbUrl: 'https://www.imdb.com/title/tt20859464'
+  imdbRuntimeMin: 93
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: The Dead Zone
+  releaseYear: 1983
+  imdbUrl: 'https://www.imdb.com/title/tt0085407'
+  imdbRuntimeMin: 103
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Another Earth
+  releaseYear: 2011
+  imdbUrl: 'https://www.imdb.com/title/tt1549572'
+  imdbRuntimeMin: 92
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: The Discovery
+  releaseYear: 2017
+  imdbUrl: 'https://www.imdb.com/title/tt5155780'
+  imdbRuntimeMin: 102
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: We've Forgotten More Than We Ever Knew
+  releaseYear: 2016
+  imdbUrl: 'https://www.imdb.com/title/tt4499572'
+  imdbRuntimeMin: 88
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: 41
+  releaseYear: 2012
+  imdbUrl: 'https://www.imdb.com/title/tt2319739'
+  imdbRuntimeMin: 80
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: River
+  releaseYear: 2023 
+  imdbUrl: 'https://www.imdb.com/title/tt27695005'
+  imdbRuntimeMin: 86
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: I Saw the TV Glow
+  releaseYear: 2024
+  imdbUrl: 'https://www.imdb.com/title/tt15574270'
+  imdbRuntimeMin: 100
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Breaking Infinity
+  releaseYear: 2023
+  imdbUrl: 'https://www.imdb.com/title/tt14204244'
+  imdbRuntimeMin: 86
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
+- title: Monolith
+  releaseYear: 2022
+  imdbUrl: 'https://www.imdb.com/title/tt18298588'
+  imdbRuntimeMin: 94
+  addedDateOnly: 2026-03-16
+  recommendedBy: noah
 - title: Little Miss Sunshine
   releaseYear: 2006
   imdbUrl: 'https://www.imdb.com/title/tt0449059'
@@ -193,11 +384,6 @@
   addedDateOnly: '2015-05-27'
   imdbUrl: https://www.imdb.com/title/tt0071360/
   imdbRuntimeMin: 113
-- title: Exam
-  releaseYear: 2009
-  addedDateOnly: '2015-07-05'
-  imdbUrl: https://www.imdb.com/title/tt1258197/
-  imdbRuntimeMin: 101
 - title: Mindwalk
   releaseYear: 1990
   addedDateOnly: '2016-01-09'
