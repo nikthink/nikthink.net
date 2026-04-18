@@ -2,11 +2,6 @@
 
 <!-- qns-id=urn:uuid:2fe4adce-d507-4d3a-8226-14b5a1d3085d -->
 
-- write pledge post.
-    - 4k for 2025. 10% of previous year spendings rounded up to thousand.
-    - for this time do donations first and then write where i donated in post and how much for each.
-    - for 2026 donation in 2027, make first post saying where i think of donating,
-      then ask feedback in post. then make another post on where i decided to donate.
 - ai speculation
     - write post. people say ai would have nothing to train on if no one created new content
       bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
@@ -26,10 +21,6 @@
     - inspiration
         - tommy substack profile post.
         - https://gwern.net/me
-
-- add link to web feed for posts
-- add book ratings and want to read lists and recommended to me lists
-    - migrate goodreads export to nikthinkNet
 - money log
     - on website put list of promises and who i paid for what. so that people can establish credibility of me paying them.
     - items:
@@ -46,6 +37,8 @@
     - co-organized macroscope
     - was in charge of scheduling for nyc megameetup 2025
     - see `~/notes/bio/bio.md` for more
+- add book ratings and want to read lists and recommended to me lists
+    - migrate goodreads export to nikthinkNet
 - notes file ideas
     - list of objects i own and where to buy them (ex: amazon link)
     - funny wifi names
@@ -54,6 +47,28 @@
     - probably not mention ea/rat until i can write a post about it
 - add moderation guidelines for comments and how featured comments with work
 
+## add to to watch
+- https://www.imdb.com/title/tt0995829/
+- https://www.imdb.com/title/tt21054472
+- https://www.imdb.com/title/tt11873472
+- https://www.imdb.com/title/tt1404653
+- https://www.imdb.com/title/tt20215234
+- https://www.imdb.com/title/tt0070904
+- https://www.imdb.com/title/tt4490762
+- https://www.imdb.com/title/tt0091949
+- https://www.imdb.com/title/tt27802969
+- https://www.imdb.com/title/tt0027977
+- https://www.imdb.com/title/tt14493924
+- https://www.imdb.com/title/tt2400275
+- https://www.imdb.com/title/tt7209510
+- https://www.imdb.com/title/tt0050307
+- https://www.imdb.com/title/tt0460402
+- https://www.imdb.com/title/tt33069917
+- https://www.imdb.com/title/tt1341338
+- https://www.imdb.com/title/tt35674521
+- https://www.imdb.com/title/tt9892936
+- https://www.imdb.com/title/tt0224156
+- https://www.imdb.com/title/tt0130827
 
 ## To process
 - to change my mind log:
@@ -66,4 +81,3 @@
   intentionality, commitment, introspection, narratives,
   priorities too late, not robust.
     - also see convo gdoc with you know who.
-
