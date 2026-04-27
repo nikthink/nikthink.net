@@ -1,5 +1,5 @@
 {{- $dataObjName := .Get 0 -}}
-{{- $data := index .Site.Data $dataObjName -}}
+{{- $data := index hugo.Data $dataObjName -}}
 {{- $page := .Page -}}
 {{- if $data -}}
 <table data-sort-table>

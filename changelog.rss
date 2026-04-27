@@ -14,6 +14,17 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>donation pledge</title>
+            <link>nikthink.net/posts/2026/donation-pledge.html</link>
+            <description>
+                - new post: _Donation Pledge_
+                - upgraded hugo to 0.260.1
+                - other misc
+            </description>
+            <pubDate>Sun, 26 Apr 2026 22:57:20 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:5eb81130-b5ab-47d0-9e94-a1614bc2d565</guid>
+        </item>
+        <item>
             <title>added tags to media ratings</title>
             <link>https://nikthink.net/notes/media-ratings.html</link>
             <description>

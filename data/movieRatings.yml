@@ -1,3 +1,22 @@
+- title: 'The AI Doc: Or How I Became an Apocaloptimist'
+  releaseYear: 2026
+  ratingOn10: 8
+  ratedDateOnly: 2026-03-27
+  imdbUrl: 'https://imdb.com/title/tt39150120'
+  imdbRuntimeMin: 103
+- title: Exam
+  releaseYear: 2009
+  ratingOn10: 8
+  ratedDateOnly: 2026-03-21
+  imdbUrl: 'https://imdb.com/title/tt1258197'
+  imdbRuntimeMin: 101
+  comment: 'i rated this 8/10, but the core idea is near garbage. i am rating this well because it is very well executed, and everything else than the core idea is pretty good. this would be one of the worst ways to recruit someone if you want them to be good at a ceo job. more comments that contains spoilers. using rot13 (you might be able to decode using rot13.com). gur vaivtvyngbe fnlf "gurer bar dhrfgvba orsber lbh" juvpu vf abg ernyyl gehr jura ur fnlf vg, be ng yrnfg qvfvatrahbhf. nyfb ur nfxf "nal dhrfgvbaf?" nsgre ur fnlf gung gnyxvat gb uvz be gur thneq jvyy qvfdhnyvsl, ohg orsber ur zragvbaf gurer n gvzre. ynfgyl, va ernyvgl v srry yvxr crbcyr jbhyq unir ercyvrq jura ur nfxrq. naq gur pbzcnal jbhyq unir xabja gung jura gurl qrfvtarq gur grfg. (ba gbc bs gurz fnlvat gurl jnag nggragvba gb qrgnvyf gb fryrpg sbe fbzrbar, juvpu v qba trg ubj guvf jbhyq fryrpg sbe n tbbq punenpgre) ohg, yvxr, ... nyy gur erfg vf FB tbbq'
+- title: Searching
+  releaseYear: 2018
+  ratingOn10: 7
+  ratedDateOnly: 2026-03-17
+  imdbUrl: 'https://imdb.com/title/tt7668870'
+  imdbRuntimeMin: 102
 - title: Hidden Figures
   releaseYear: 2016
   ratingOn10: 7
@@ -1163,6 +1182,7 @@
   ratedDateOnly: '2015-05-27'
   imdbUrl: 'https://www.imdb.com/title/tt1877832/'
   imdbRuntimeMin: 132
+  tags: sci-fi post-apocalyptic time-travel superhero
 - title: Spotlight
   releaseYear: 2015
   ratingOn10: 7
@@ -1857,6 +1877,7 @@
   ratedDateOnly: '2020-10-21'
   imdbUrl: 'https://www.imdb.com/title/tt3986820/'
   imdbRuntimeMin: 111
+  tags: time-travel horror
 - title: The Island
   releaseYear: 2005
   ratingOn10: 8
@@ -2291,6 +2312,7 @@
   ratedDateOnly: '2021-12-14'
   imdbUrl: 'https://www.imdb.com/title/tt6723592/'
   imdbRuntimeMin: 150
+  tags: sci-fi time-travel
 - title: The Godfather
   releaseYear: 1972
   ratingOn10: 10
@@ -2522,14 +2544,14 @@
   ratedDateOnly: '2015-07-07'
   imdbUrl: 'https://www.imdb.com/title/tt0088247/'
   imdbRuntimeMin: 107
-  tags: sci-fi cyberpunk
+  tags: sci-fi cyberpunk time-travel
 - title: Back to the Future
   releaseYear: 1985
   ratingOn10: 9
   ratedDateOnly: '2013-05-24'
   imdbUrl: 'https://www.imdb.com/title/tt0088763/'
   imdbRuntimeMin: 116
-  tags: sci-fi comedy
+  tags: time-travel sci-fi comedy
 - title: The Hurt Locker
   releaseYear: 2008
   ratingOn10: 7
@@ -2585,6 +2607,7 @@
   ratedDateOnly: '2020-10-31'
   imdbUrl: 'https://www.imdb.com/title/tt0096874/'
   imdbRuntimeMin: 108
+  tags: time-travel
 - title: Indiana Jones and the Last Crusade
   releaseYear: 1989
   ratingOn10: 7
@@ -2609,6 +2632,7 @@
   ratedDateOnly: '2020-10-31'
   imdbUrl: 'https://www.imdb.com/title/tt0099088/'
   imdbRuntimeMin: 118
+  tags: time-travel
 - title: 'Battlestar Galactica: Razor'
   releaseYear: 2007
   ratingOn10: 7

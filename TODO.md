@@ -2,6 +2,17 @@
 
 <!-- qns-id=urn:uuid:2fe4adce-d507-4d3a-8226-14b5a1d3085d -->
 
+### donations
+
+in 2025 i spent < cad 33,000
+`cad 4000 = ceil(cad 33000 / 10000)`
+so donate cad 4,000
+
+- [x] post this
+- [ ] do giving what we can donation on their website.
+- [ ] edit this post to say i have done gwwc with link if i can
+
+### Other TODO
 - ai speculation
     - write post. people say ai would have nothing to train on if no one created new content
       bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
@@ -46,29 +57,6 @@
 - add to home page
     - probably not mention ea/rat until i can write a post about it
 - add moderation guidelines for comments and how featured comments with work
-
-## add to to watch
-- https://www.imdb.com/title/tt0995829/
-- https://www.imdb.com/title/tt21054472
-- https://www.imdb.com/title/tt11873472
-- https://www.imdb.com/title/tt1404653
-- https://www.imdb.com/title/tt20215234
-- https://www.imdb.com/title/tt0070904
-- https://www.imdb.com/title/tt4490762
-- https://www.imdb.com/title/tt0091949
-- https://www.imdb.com/title/tt27802969
-- https://www.imdb.com/title/tt0027977
-- https://www.imdb.com/title/tt14493924
-- https://www.imdb.com/title/tt2400275
-- https://www.imdb.com/title/tt7209510
-- https://www.imdb.com/title/tt0050307
-- https://www.imdb.com/title/tt0460402
-- https://www.imdb.com/title/tt33069917
-- https://www.imdb.com/title/tt1341338
-- https://www.imdb.com/title/tt35674521
-- https://www.imdb.com/title/tt9892936
-- https://www.imdb.com/title/tt0224156
-- https://www.imdb.com/title/tt0130827
 
 ## To process
 - to change my mind log:

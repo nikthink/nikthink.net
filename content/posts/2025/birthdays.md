@@ -12,7 +12,7 @@ show you care by not waiting or saying empty words.
 be careful who knows your birthday.
 
 ---
-<!-- more -->
+<!--more-->
 
 i wish to start this blog with something new and interesting,
 something you hopefully havent thought of.

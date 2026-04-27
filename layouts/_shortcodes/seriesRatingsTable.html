@@ -1,5 +1,5 @@
 {{- $dataObjName := "seriesRatings" -}}
-{{- $data := index .Site.Data $dataObjName -}}
+{{- $data := index hugo.Data $dataObjName -}}
 {{- if $data -}}
 <table data-sort-table>
     <thead>

@@ -6,6 +6,8 @@ title: 'TIL log'
 a log of small interesting-ish things i have learned.
 
 <!--more-->
+- 2026-04-04: [bartitsu](https://en.wikipedia.org/wiki/Bartitsu)
+- 2026-03-19: [uranium was formed](https://en.wikipedia.org/wiki/Uranium#Origin) in supernovae
 - 2026-02-11: [busybox](https://busybox.net/about.html) contains commands to decrypt `xz`, `ip link`, `wget`.
 - 2026-01-08: acrylic paint is mostly made of plastic. https://en.wikipedia.org/wiki/Acrylic_paint
 - 2025-10-26: [whale fall](https://en.wikipedia.org/wiki/Whale_fall)

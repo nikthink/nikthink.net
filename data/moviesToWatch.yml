@@ -1,10 +1,9 @@
-- title: Exam
-  releaseYear: 2009
-  addedDateOnly: '2015-07-05'
-  imdbUrl: 'https://www.imdb.com/title/tt1258197/'
-  imdbRuntimeMin: 101
-  recommendedBy: noah, maybe mati
-  comment: noah 3/11
+- title: Project Hail Mary
+  releaseYear: 2026
+  imdbUrl: 'https://www.imdb.com/title/tt12042730'
+  imdbRuntimeMin: 156
+  addedDateOnly: 2026-03-26
+  recommendedBy: joe scott. hank green. same author as the martian.
 - title: Circle
   releaseYear: 2015
   imdbUrl: 'https://www.imdb.com/title/tt3118452'
@@ -19,13 +18,6 @@
   addedDateOnly: 2026-03-16
   recommendedBy: noah
   comment: noah 2/11
-- title: Searching
-  releaseYear: 2018
-  imdbUrl: 'https://www.imdb.com/title/tt7668870'
-  imdbRuntimeMin: 102
-  addedDateOnly: 2026-03-16
-  recommendedBy: noah
-  comment: noah 4/11
 - title: Control
   releaseYear: 2022
   imdbUrl: 'https://www.imdb.com/title/tt14036276'
@@ -68,6 +60,12 @@
   addedDateOnly: 2026-03-16
   recommendedBy: noah
   comment: noah 10/11
+- title: The Andromeda Strain
+  releaseYear: 1971
+  imdbUrl: 'https://www.imdb.com/title/tt0066769'
+  imdbRuntimeMin: 89
+  addedDateOnly: 2026-03-19
+  recommendedBy: joe scott as being scientifically acurate
 - title: Run
   releaseYear: 2020
   imdbUrl: 'https://www.imdb.com/title/tt8633478'

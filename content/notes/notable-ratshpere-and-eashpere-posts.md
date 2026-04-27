@@ -190,3 +190,9 @@ in no particular order.
 
 ### Liked mae posts
 - on gifts and transactions in relationships: https://thoughtsofmine.ca/posts/gift-economies-and-rich-friends/
+
+## Hopeful Monsters
+posts from the blog [Hopeful Monsters](https://www.hopefulmons.com),
+from Étienne Fortier-Dubois.
+
+- [Remaining Ambitious](https://www.hopefulmons.com/p/remaining-ambitious)

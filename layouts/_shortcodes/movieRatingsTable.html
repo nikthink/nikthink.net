@@ -1,5 +1,5 @@
 {{- $dataObjName := .Get 0 -}}
-{{- $data := index .Site.Data $dataObjName -}}
+{{- $data := index hugo.Data $dataObjName -}}
 {{- if $data -}}
 <table data-sort-table>
     <thead>
@@ -9,6 +9,7 @@
         <th data-sort-default data-sort-reverse>Rating (on 10)</th>
         <th>Runtime</th>
         <th>Tags</th>
+        <th>Comment</th>
     </tr>
     </thead>
     <tbody>
@@ -27,6 +28,7 @@
             {{ replace $duration.String "0s" "" }}
         </td>
         <td>{{ index $row "tags" }}</td>
+        <td>{{ index $row "comment" }}</td>
     </tr>
 {{- else -}}
 <p style="color: red">error: data not an array</p>
