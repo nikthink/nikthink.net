@@ -43,3 +43,10 @@ then make a post stating how much i am planning to give and where i am thinking 
 give which amount. and wait ~1-2 week(s) in case im persuaded to give differently.
 
 and finally make the donations and post again where i donated and how much.
+
+## Giving What We Can Pledge
+here is [the matching Giving What We Can Pledge](https://www.givingwhatwecan.org/about-us/members) (image).
+note that i am pledging 10% of my spendings and not income as the image state.
+
+![Giving What We Can Pledge image](donation-pledge/Pledge_11239_Nicolas_Lacombe_gold.png "Giving What We Can Pledge image")
+

@@ -8,10 +8,6 @@ in 2025 i spent < cad 33,000
 `cad 4000 = ceil(cad 33000 / 10000)`
 so donate cad 4,000
 
-- [x] post this
-- [ ] do giving what we can donation on their website.
-- [ ] edit this post to say i have done gwwc with link if i can
-
 ### Other TODO
 - ai speculation
     - write post. people say ai would have nothing to train on if no one created new content
