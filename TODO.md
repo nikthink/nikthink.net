@@ -9,6 +9,7 @@ in 2025 i spent < cad 33,000
 so donate cad 4,000
 
 ### Other TODO
+- i will not forget you mike perry: https://www.alcor.org/resources/blog/remembering-mike-perry/
 - ai speculation
     - write post. people say ai would have nothing to train on if no one created new content
       bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
