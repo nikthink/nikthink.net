@@ -29,6 +29,11 @@ img {
     max-width: 100%;
 }
 
+blockquote {
+    background: none;
+    border-left: 2px solid var(--text-color);
+}
+
 table {
     border-collapse: collapse;
     margin: 1em 0;

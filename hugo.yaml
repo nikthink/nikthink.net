@@ -1,10 +1,13 @@
-#v11
 baseURL: 'https://nikthink.net/'
-languageCode: en-us
 title: nikthink.net
 theme: plague
 relativeURLs: true
 uglyURLs: true
+languages:
+  en:
+    label: English
+    locale: en-US
+    title: nikthink.net
 markup:
   tableOfContents:
     ordered: true

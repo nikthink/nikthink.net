@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>upgraded hugo and other misc changes</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                upgraded hugo and other misc changes
+            </description>
+            <pubDate>Sun, 02 Aug 2026 18:16:35 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:5884cd4b-c85b-49f2-ba94-e813de049c57</guid>
+        </item>
+        <item>
             <title>ir update</title>
             <link>https://nikthink.net/</link>
             <description>

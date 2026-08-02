@@ -1,10 +1,17 @@
 #!/usr/bin/env bash
 
-hugoBuildFlags="--enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings $1"
+makeTarget="all"
+
+if ! [[ "$1" =~ ^\- ]]; then
+    makeTarget="$1"
+    shift
+fi
+
+hugoBuildFlags="$1"
 
 build() {
     rm -rf ./public/
-    make all
+    make "HUGO_OPTS=$hugoBuildFlags" "$makeTarget"
 }
 
 build

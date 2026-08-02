@@ -2,7 +2,11 @@
 .SUFFIXES:
 .SUFFIXES: .mmd .png
 
+HUGO_OPTS=
+
 all: checkDependencies mermaidjs hugo postHugoCopy websiteArchive
+
+allOffline: checkDependencies hugo postHugoCopy websiteArchive
 
 clean:
 	rm -rf ./public/
@@ -19,7 +23,7 @@ checkDependencies:
 mermaidjs: content/notes/ir/irg.png
 
 hugo:
-	hugo --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings
+	hugo --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings $(HUGO_OPTS)
 
 postHugoCopy:
 	cp -a ./changelog.rss ./data/ ./public/
