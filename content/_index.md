@@ -8,8 +8,6 @@ menu:
 ---
 
 hi, im nik, this is my website.  
-i am a [relationship anarchist](https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy).  
-i live in [montreal](https://en.wikipedia.org/wiki/Montreal).
 
 on top of web feeds per post categories (ex for [all posts](/posts/index.xml)),
 there is a [changelog feed](/changelog.rss) for the whole website.

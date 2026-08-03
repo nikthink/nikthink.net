@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>Logo post</title>
+            <link>https://nikthink.net/posts/2026/logo.html</link>
+            <description>
+                new post explaning the logo
+            </description>
+            <pubDate>Mon, 03 Aug 2026 01:30:56 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:b7a49032-d75b-4167-a077-ebe698910678</guid>
+        </item>
+        <item>
             <title>upgraded hugo and other misc changes</title>
             <link>https://nikthink.net/</link>
             <description>
