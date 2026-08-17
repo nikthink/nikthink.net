@@ -45,8 +45,35 @@ give which amount. and wait ~1-2 week(s) in case im persuaded to give differentl
 and finally make the donations and post again where i donated and how much.
 
 ## Giving What We Can Pledge
-here is [the matching Giving What We Can Pledge](https://www.givingwhatwecan.org/about-us/members) (image).
-note that i am pledging 10% of my spendings and not income as the image state.
+~~here is [the matching Giving What We Can Pledge](https://www.givingwhatwecan.org/about-us/members) (image).
+note that i am pledging 10% of my spendings and not income as the image state.~~
 
-![Giving What We Can Pledge image](donation-pledge/Pledge_11239_Nicolas_Lacombe_gold.png "Giving What We Can Pledge image")
+i received an email from _Giving What We Can_ notifying me that they do not
+have a pledge matching what i intend to do. they say when i work i need to make
+the pledge of giving 10% of my income, and ony when i dont work can i pledge 10%
+of my spendgin money. more details below.
 
+i decided to withdraw my Giving What We Can pledge, and keep my personal pledge
+outlined above.
+
+details from emails (2026-05 to 2026-08):
+
+> [...]
+>
+> This is a slightly tricky email to write, because we genuinely respect your commitment to giving and don't want to diminish that in any way. That said, we do want to make sure we're upfront with you about how the pledge works, because we think that's the right thing to do.
+>
+> We understand your pledge donations are currently being calculated based on your spending money rather than your income. The 10% Pledge is specifically a commitment to give at least 10% of your income, which we generally define as your gross salary, wages, or self-employed income.
+>
+> Protecting the meaning and integrity of the pledge is something we take seriously, as it's important that all members are working from the same understanding of what the commitment involves. With that in mind, we'd love to help you find the right path forward.
+>
+> [...]
+>
+> Because you're financially independent and moving between periods of work and no work, your situation is pretty close to what we'd call partial retirement. We already have guidance for retired or partially retired members that allows the 10% Pledge to be calculated on spending money rather than income. So in practice, you'd give 10% of your income in years you work, and 10% of your spending money in years you don't.
+>
+> [...]
+>
+> Thanks for letting me know, and no worries at all. Your current setup is already doing a lot of good, and that matters far more than which mechanism it runs through.
+>
+> [...]
+
+--- James Rayton <james.rayton@givingwhatwecan.org>

@@ -14,6 +14,17 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>updated donation pledge post, and misc</title>
+            <link>https://nikthink.net/posts/2026/donation-pledge.html</link>
+            <description>
+                - updated donation pledge post with giving what we can addendum
+                - added new entry to Echos page
+                - added entries to short films and movies
+            </description>
+            <pubDate>Mon, 17 Aug 2026 00:01:52 -0400</pubDate>
+            <guid isPermaLink="false">urn:uuid:851f07e3-ccd5-4dfd-b22f-5907849fc710</guid>
+        </item>
+        <item>
             <title>Logo post</title>
             <link>https://nikthink.net/posts/2026/logo.html</link>
             <description>
