@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>added to echos.md</title>
+            <link>https://nikthink.net/notes/echos.html</link>
+            <description>
+                added to echos.md
+            </description>
+            <pubDate>Sat, 05 Sep 2026 16:02:36 -0700</pubDate>
+            <guid isPermaLink="false">urn:uuid:91cd4d54-efda-4c00-b433-23350489c154</guid>
+        </item>
+        <item>
             <title>new post about mike perry and some notes updates</title>
             <link>https://nikthink.net/posts/2026/mike-perry.md</link>
             <description>
