@@ -2,14 +2,7 @@
 
 <!-- qns-id=urn:uuid:2fe4adce-d507-4d3a-8226-14b5a1d3085d -->
 
-### donations
-
-in 2025 i spent < cad 33,000
-`cad 4000 = ceil(cad 33000 / 10000)`
-so donate cad 4,000
-
 ### Other TODO
-- i will not forget you mike perry: https://www.alcor.org/resources/blog/remembering-mike-perry/
 - ai speculation
     - write post. people say ai would have nothing to train on if no one created new content
       bacause they cant money from ads because ppl only use ai. but new ai could be trained on old
@@ -35,6 +28,9 @@ so donate cad 4,000
         - ~ 2025-06-21 log money given: for wearing a wreath on summer solstice. sent cad 10 to andy
         - donated cad 15 to _La Plaque Tournante_ for hosting our event. ~ 2025-04-28 to confirm date.
         - add payments to people for solstice mtl 2025: matt jodie jeremy and amounts
+        - hoziron omega donations (incl omega labs)
+        - donation to pauseai canada
+        - jodie paid tasks 
 - create history of notable things i did
     - organizing [pauseai mtl](https://pauseai.ca/montreal.html)
     - director of horizon omega (on board of directors)
@@ -49,8 +45,7 @@ so donate cad 4,000
     - migrate goodreads export to nikthinkNet
 - notes file ideas
     - list of objects i own and where to buy them (ex: amazon link)
-    - funny wifi names
-        - that i have seen; that i thought of or others thought of.
+        - maybe only items i have had for 5+ years that still work well.
 - add to home page
     - probably not mention ea/rat until i can write a post about it
 - add moderation guidelines for comments and how featured comments with work

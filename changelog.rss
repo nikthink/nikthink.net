@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>new post about mike perry and some notes updates</title>
+            <link>https://nikthink.net/posts/2026/mike-perry.md</link>
+            <description>
+                new post about mike perry and some notes updates
+            </description>
+            <pubDate>Sat, 05 Sep 2026 13:06:13 -0700</pubDate>
+            <guid isPermaLink="false">urn:uuid:ef4e52bc-b14d-4dee-bd71-26e05601dfb7</guid>
+        </item>
+        <item>
             <title>updated donation pledge post, and misc</title>
             <link>https://nikthink.net/posts/2026/donation-pledge.html</link>
             <description>
