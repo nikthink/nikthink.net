@@ -24,6 +24,14 @@ params:
 
 --- piero, from [Pentiment](https://en.wikipedia.org/wiki/Pentiment_(video_game))
 
+### 2026-04-02
+> there's no limits to offsets, if you want to be utilitarian about it. But:
+> - there are limits to the deformations(?) your proverbial soul will take at doing 'evil' in the name of offsets
+> - humans are slippery about the things that feel good, but not so about the things that *are* good. You may think you're offsetting today, but it's much harder to be consistent about it than it is to be consistent about doing the thing you're excusing behind offsets
+> - omniscient people can probably do offsets right. But I suspect people are quite bad at seeing what the true results of their misdeeds is. The social contract is part of the great web of preferential utility, the world really is much worse when people go doing terrible things and justifying it in their mind by offsetting what they *think* is the difference. I suspect it often really isn't the difference.
+
+--- henri
+
 ### Unkown date, before 2026-05
 
 > If your ambition is also a burning pit inside you and you won't be done until all the problems are solved and your name is etched into the movements of the stars, hit me up. Coffee's on me
