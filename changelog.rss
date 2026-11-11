@@ -14,6 +14,15 @@
         <atom:link href="https://nikthink.net/changelog.rss" rel="self" type="application/rss+xml"/>
         <!-- SCRIPT_ADD_ITEMS_HERE  -->
         <item>
+            <title>misc updates</title>
+            <link>https://nikthink.net/</link>
+            <description>
+                misc updates
+            </description>
+            <pubDate>Wed, 11 Nov 2026 14:29:51 -0800</pubDate>
+            <guid isPermaLink="false">urn:uuid:c6d4eb68-e33c-4db8-bb4a-01ebcb6f122f</guid>
+        </item>
+        <item>
             <title>added draft about me page</title>
             <link>https://nikthink.net/notes/about-me.md</link>
             <description>

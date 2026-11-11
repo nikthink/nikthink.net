@@ -18,7 +18,7 @@ checkDependencies:
 	fi
 
 .mmd.png:
-	npx -p @mermaid-js/mermaid-cli mmdc -i $< -o $@
+	npx --prefer-offline -p @mermaid-js/mermaid-cli@11.17.1 mmdc -i $< -o $@
 
 mermaidjs: content/notes/ir/irg.png
 
